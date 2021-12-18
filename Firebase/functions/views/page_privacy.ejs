@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="<%= req.getLocale() %>">
+
+<head>
+    <meta name="robots" content="noindex,nofollow" />
+
+    <title>Hexa Snap - <%- tr('privacy') %></title>
+
+    <%- include('part_meta') -%>
+
+    <%- include('part_ga_tracker_init') -%>
+</head>
+
+<body class="flex-v">
+
+    <%- include('part_header') -%>
+
+    <div class="text-box">
+
+        <h1><%- tr('privacy') %></h1>
+
+        <%- include(tr('translated_res_path') + 'part_text_privacy') -%>
+
+    </div>
+
+    <%- include('part_footer') -%>
+
+</body>
+
+</html>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HexaSnapNative.iml" filepath="$PROJECT_DIR$/HexaSnapNative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hexasnap-native/hexasnap-native.iml" filepath="$PROJECT_DIR$/hexasnap-native/hexasnap-native.iml" />
+    </modules>
+  </component>
+</project>

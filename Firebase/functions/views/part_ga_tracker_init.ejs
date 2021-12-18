@@ -1,0 +1,65 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136791119-2"></script>
+
+<script>
+
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-136791119-2', {
+        anonymize_ip: true,
+        cookie_expires: 0
+    });
+
+    function openLink(a) {
+
+        if (a.href === undefined) {
+            //no url specified, do nothing
+            return;
+        }
+
+        if (a.target === "_blank") {
+            //open a new tab
+            window.open(a.href, '_blank');
+        } else {
+            //stay in the current tab
+            document.location = a.href;
+        }
+    }
+
+    function trackOutboundLink(a, action, category) {
+
+        if (a.href === undefined) {
+            //no url specified, do nothing
+            return true;
+        }
+
+        if (window.ga === undefined || window.ga.loaded !== true) {
+            //default behavior if the tracking content is not loaded or blocked by the brower (ex: firefox)
+            return true;
+        }
+
+        //open link if not ios (window.open not working)
+        const mustOpenLinkAfterTracking = (navigator.userAgent.match("iPod|iPhone|iPad") === null);
+
+        //track outbound click then redirect
+        gtag('event', action, {
+            'event_category': category,
+            'event_label': a.href,
+            'transport_type': 'beacon',
+            'event_callback': function () {
+
+                if (mustOpenLinkAfterTracking) {
+                    openLink(a);
+                }
+            }
+        });
+
+        return !mustOpenLinkAfterTracking;
+    }
+</script>

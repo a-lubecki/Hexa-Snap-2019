@@ -1,0 +1,25 @@
+
+=== Firebase ===
+- Analytics
+- Auth
+- Crashlytics
+- Dynamic Links
+- Functions
+
+installed version : 6.5.0
+doc : https://firebase.google.com/docs/unity/setup
+changelog : https://firebase.google.com/support/release-notes/unity
+download : https://firebase.google.com/download/unity
+
+
+=== AdMob ===
+installed version : 3.18.3
+doc : https://developers.google.com/admob/unity/start
+changelog/download : https://github.com/googleads/googleads-mobile-unity/releases
+
+
+=== Facebook ===
+installed version : 7.17.2
+doc : https://developers.facebook.com/docs/unity/reference/current
+changelog/download : https://developers.facebook.com/docs/unity/change-log
+

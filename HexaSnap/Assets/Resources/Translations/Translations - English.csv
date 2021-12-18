@@ -1,0 +1,247 @@
+Activity0.Button.Skip	Skip
+Activity1.Button.Options	Settings
+Activity1a.Button.StartArcade	Arcade
+Activity1a.Button.StartHardcore	Hardcore
+Activity1a.Button.StartTimeAttack	Time Attack
+Activity1a.Button.Shop	Shop
+Activity1a.Button.About	About
+Activity1b.Button.Play	Play
+Activity2.Button.Play	Play
+Activity2.Button.HiScores	Hi-Scores
+Activity2.Button.Upgrades	Upgrades
+Activity2a.Title	Arcade
+Activity2a.Title.Hardcore	Hardcore
+Activity2a.Text.Best	Reached level: {0}\nBest score: {1}
+Activity2b.Title	Time Attack
+Activity2b.Text.Best	Best time: {0}\nBest score: {1}
+Activity3.Title	Level selection
+Activity3.Button.Shop	Shop
+Activity3.Button.Start	Start
+Activity3.Text.Level	Start at level
+Activity3.Text.RequiredHexacoins	Required:
+Activity4.Text.Level	Level
+Activity4.Text.Target.Level	Goal: level {0}
+Activity4.Text.Target.Win	Goal: to win
+Activity4.Text.Target.Survive	Goal: to survive
+Activity4.Text.Target.Best	Goal: to infinity and beyond
+Activity4.Text.Go	Go!
+Activity4c.Text.Timer	Timer
+Activity4c.Text.Target.Time	Goal: to survive
+Activity10.Text.Score	Score
+Activity10a.Text.Level	Level {0}
+Activity10c.Title	Choose an effect!
+Activity10c.Validate	Validate
+Activity11.Title	Pause
+Activity11.Button.GiveUp	Give up
+Activity11.Button.Resume	Resume
+Activity11.Button.Options	Settings
+Activity12.Title	Game Over
+Activity12.Text.Score	Final score
+Activity12.Button.Share	Share
+Activity12.Button.Finish	Finish
+Activity12a.Text.Level	Level
+Activity12a.Text.Stats	Max level: {0}\nRecord: {1}
+Activity12b.Text.Time	Total time
+Activity12b.Text.Stats	Record: {0}\nRetry to beat your high score
+Activity13.Title	Goal achieved
+Activity13.Button.Share	Share
+Activity13.Button.Quit	Quit
+Activity13.Button.Continue	Continue
+Activity13.Text.Score	Final score
+Activity13.Text.Stats	Max level: {0}\nRecord: {1}
+Activity13a.Text.End.Arcade1	Well done! New mode unlocked:
+Activity13a.Text.End.Arcade2	HARDCORE
+Activity13a.Text.End.Arcade3	Next goal: level 100
+Activity13b.Text.End.Hardcore1	You have beaten HARDCORE mode\nYou are an expert at Hexa Snap
+Activity13b.Text.End.Hardcore2	Thanks for playing!
+Activity13c.Title	Done
+Activity13c.Text.Time	Total time
+Activity13c.Text.Stats	Record: {0}\nRetry to beat your high score
+Activity20.Title	Upgrades
+Activity20.Section.Unlock	Unlock with
+Activity20.Section.Tuto	Sections contain bonuses and maluses
+Activity20.Section.Activate	Tap to reactivate
+Activity20.Text.Recap	Activated: {0}, {1}
+Activity20.Text.Bonus.0	0 bonuses
+Activity20.Text.Bonus.1	1 bonus
+Activity20.Text.Bonus.+	{0} bonuses
+Activity20.Text.Malus.0	0 maluses
+Activity20.Text.Malus.1	1 malus
+Activity20.Text.Malus.+	{0} maluses
+Activity21.Item.Chances	Generation chances
+Activity21.Button.Activate	Activate\nall
+Activity21.Button.Deactivate	Deactivate\nall
+Activity21a.Title	Bonus
+Activity21a.INSTANT	Instant bonus
+Activity21a.INSTANT.Description	Disappears on trigger
+Activity21a.PERSISTENT	Persistent bonus
+Activity21a.PERSISTENT.Description	Work for an amount of time
+Activity21b.Title	Malus
+Activity21b.INSTANT	Instant malus
+Activity21b.INSTANT.Description	Disappears on trigger.
+Activity21b.PERSISTENT	Persistent malus
+Activity21b.PERSISTENT.Description	Work for an amount of time.
+Activity22.Title	Too bad, you haven't enough Hexacoins...\nBut don't worry, you can get a lot in the shop!
+Activity22.Button.Cancel	Close
+Activity22.Button.Shop	Shop
+Activity23.Title	Shop
+Activity23.Text.Reward.Daily	Free Hexacoins
+Activity23.Text.Reward.AdVideo	Watch an ad
+Activity23.Text.Reward.NoAdsVideo	Free Hexacoins
+Activity23.Text.Reward.Wait	Available in {0}
+Activity23.Button.Price	{0:F2}$
+Activity23.Text.AdFree	Bonus:\nNo more ads!
+Activity23.Text.Popular	Most popular
+Activity23.Text.BestOffer	Best deal
+Activity23.Text.Loading	Shop items fetching...
+Activity24.Title	Thanks
+Activity24.Button.Close	Close
+Activity24a.Text.Thanks	You bought {0} Hexacoins.\nWould you want to\nconnect to save them?
+Activity24a.Button.Login	Connect
+Activity24b.Text.Thanks	You bought {0} Hexacoins,\nspend them skillfully!
+Activity24b.Text.ThanksNoAds	You bought {0} Hexacoins,\nno ads anymore!
+Activity30.Title	Settings
+Activity30.Button.Music	Music
+Activity30.Button.Sounds	Sounds
+Activity30.Button.Controls	Axis rotation
+Activity30.Button.DisableCharacter	Disable
+Activity30.Text.Login	Connect with facebook to save\nyour progress online.
+Activity30.Text.Logged	Your are logged in
+Activity30.Button.Logout	Log out
+Activity30.Button.Facebook	Facebook
+Activity30.Button.DeleteAccount	Delete my account
+Activity30.Button.GooglePlay	Google Play
+Activity30.Button.GameCenter	Game Center
+Activity31.Text.Legal	By connecting,\nyou accept the Terms &\nConditions and\nthe Privacy Policy.
+Activity31.Button.Cancel	Cancel
+Activity31.Button.Continue	Continue
+Activity31.Text.Sync	Sync in progress...
+Activity50.Title	Hi-Scores
+Activity50.Button.Share	Share
+Activity50.Text.Score	Score
+Activity50.Text.Level	Level
+Activity50.Text.Time	Time
+Activity50.Text.World	{0}\nglobal
+Activity50.Text.Login	Connect your {0} account to see your global ranking.
+Activity50.Button.GooglePlay	Google Play
+Activity50.Button.GameCenter	Game Center
+S.Subject	Hexa Snap
+S1.ChooserTitle	Share my score
+S1.Message	New {0} score
+S1.Mode.ARCADE	Arcade
+S1.Mode.HARDCORE	Hardcore
+S1.Mode.TIME_ATTACK	Time Attack
+S1.Authorization.IOS	The access is needed to save screenshots of the game.
+S2.ChooserTitle	Challenge your friends
+S2.Message	I challenge you on this game!
+P.Ok	Ok
+P.Cancel	Cancel
+P.Close	Close
+P.Retry	Retry
+P.Continue	Continue
+P.Yes	Yes
+P.No	No
+P1a.Title	Can't connect
+P1a.Message	Login failed, you should retry.
+P1b.Title	Problem...
+P1b.Message	The sync has failed, you can try again or return to the game (it will sync later).
+P1b.Later	Later
+P1b.Sync	Sync
+P1c.Title	Log out
+P1c.Message	Your progress won't be saved online any more. Do you really want to log out?
+P1c.Yes	Yes I do
+P1c.No	Not really...
+P1d.Title	Delete my account
+P1d.Message	Warning! Your progress and your Hexacoins will be deleted online and you will no longer be able to retrieve them on another device. Do you really want to delete your account?
+P1e.Title	Error
+P1e.Message	Your account could not be deleted. Try again later...
+P2.Title	Hi I'm the developer of Hexa Snap. If you like this game, you can :
+P2.Share	Challenge your friends
+P2.5Stars	Rate 5 stars on {0}
+P2.Facebook	Like the Hexa Snap page on Facebook
+P2.More	Know more about the game
+P2.Cancel	No no, my finger slipped...
+P3a.Terms	Terms of Service
+P3a.Privacy	Privacy Policy
+P3a.LegalInfo	Legal Info
+P3b.Title	Network problem...
+P3b.Message	Your purchase could not be fully completed. You can try again now or come back to the shop later. Hexa Snap will try validate your purchase the next time.
+P3c.Title	Too bad...
+P3c.Message	The shop items couldn't be retrieved.
+P3d.Title	Ah!
+P3d.Message	The purchase failed.
+P4.Title	Change language
+P4.Cancel	Cancel
+P5b.Title	Oh gosh!
+P6.Title	Warning!
+P6.Message	Hexa Snap was installed frm a non-official store. To continue playing, you shall install the official version of the game.
+P7.Title	Quit
+P7.Message	Do you really want to quit Hexa Snap?
+P7.Yes	Yes, but I'll be back
+P7.No	No, I'm staying
+Specific.Store.ANDROID	the Play Store
+Specific.Store.IOS	the App Store
+Specific.Center.ANDROID	Google Play
+Specific.Center.IOS	Game Center
+Time.HOUR	{0} h
+Time.MIN	{0} min
+Time.SEC	{0} s
+Hexacoin.ZERO	0 Hexacoins
+Hexacoin.ONE	1 Hexacoin
+Hexacoin.SEVERAL	{0} Hexacoins
+Bonus.ADJACENT_WIPEOUT.description	Hexagons close to this bonus are wiped out.
+Bonus.ADJACENT_WIPEOUT.title	Adjacent wipeout
+Bonus.CHOICE_BONUS.description	Three random bonuses are proposed, the selected bonus is then triggered.
+Bonus.CHOICE_BONUS.title	Bonus choice
+Bonus.CHOICE_MALUS.description	Three random maluses are proposed, the selected malus is then triggered.
+Bonus.CHOICE_MALUS.title	Malus choice
+Bonus.DIVIDER.description	Points added to the score are divided by two.
+Bonus.DIVIDER.title	Divider
+Bonus.EROSION.description	Falling spheres destroy hexagons with the same color instead of snapping.
+Bonus.EROSION.title	Erosion
+Bonus.EXTENSION.description	The stack size increases by 1 (maximum size: 3).
+Bonus.EXTENSION.title	Extension
+Bonus.INVERSION.description	The rotation direction of the axis is reversed.
+Bonus.INVERSION.title	Inversion
+Bonus.LIMITATION.description	The stack size decreases by 1.
+Bonus.LIMITATION.title	Limitation
+Bonus.MULTIPLIER.description	Points added to the score are multiplied by two.
+Bonus.MULTIPLIER.title	Multiplier
+Bonus.PROFUSION.description	The spheres are generated more frequently.
+Bonus.PROFUSION.title	Profusion
+Bonus.PROGRESSION.description	Go to the next level.
+Bonus.PROGRESSION.title	Progression
+Bonus.PROLIFERATION.description	Some random hexagons appear next to the malus.
+Bonus.PROLIFERATION.title	Proliferation
+Bonus.RANDOM_BONUS.description	Create a hexagon at the best possible location.
+Bonus.RANDOM_BONUS.title	Random bonus
+Bonus.RANDOM_MALUS.description	Create a hexagon at the worst possible location.
+Bonus.RANDOM_MALUS.title	Random malus
+Bonus.REGRESSION.description	Return to the previous level.
+Bonus.REGRESSION.title	Regression
+Bonus.ROW_WIPEOUT.description	Hexagons are wiped out in a row.
+Bonus.ROW_WIPEOUT.title	Row wipeout
+Bonus.SHORTAGE.description	The spheres are generated less frequently.
+Bonus.SHORTAGE.title	Shortage
+Bonus.SIMILAR_WIPEOUT.description	Hexagons with the same color are wiped out.
+Bonus.SIMILAR_WIPEOUT.title	Similar wipeout
+Bonus.SLOW_DOWN.description	Time slows down.
+Bonus.SLOW_DOWN.title	Slow down
+Bonus.SPEED_UP.description	Time speeds up.
+Bonus.SPEED_UP.title	Speed up
+Bonus.+5_SEC.description	Add 5 seconds to the timer.
+Bonus.+5_SEC.title	Rest
+Bonus.+10_SEC.description	Add 10 seconds to the timer.
+Bonus.+10_SEC.title	Rest
+Bonus.+20_SEC.description	Add 20 seconds to the timer.
+Bonus.+20_SEC.title	Rest
+Bonus.+30_SEC.description	Add 30 seconds to the timer.
+Bonus.+30_SEC.title	Rest
+Bonus.-5_SEC.description	Remove 5 seconds from the timer.
+Bonus.-5_SEC.title	Hurry
+Bonus.-10_SEC.description	Remove 10 seconds from the timer.
+Bonus.-10_SEC.title	Hurry
+Bonus.-20_SEC.description	Remove 20 seconds from the timer.
+Bonus.-20_SEC.title	Hurry
+Bonus.-30_SEC.description	Remove 30 seconds from the timer.
+Bonus.-30_SEC.title	Hurry

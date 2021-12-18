@@ -1,0 +1,188 @@
+0.Default	Bienvenue dans Hexa Snap !	Je serai ton guide et ton adversaire dans ce jeu.	Prépare-toi à affronter mon charisme dévastateur !	Tout est dit, prêt à relever le défi ?	Pas le temps de répondre, c'est parti !						
+1a.StartUp	Bienvenue dans Hexa Snap !										
+1a.ComeBack3	Bienvenue dans Hexa Snap !	Ça fait un bail, je commençais à m'ennuyer.									
+1a.ComeBack10	Bienvenue dans Hexa Snap !	Ça fait longtemps que tu n'es pas venu, je commençais à m'inquiéter.	Tu fais partie de mes joueurs préférés.								
+1a.TimeAttackLocked	Ce mode de jeu est bloqué.	Pour y accéder, il faut terminer le niveau 10 en mode arcade.									
+1a.TimeAttackUnlocked	Tu as terminé le niveau 10.	Le mode time attack est maintenant disponible !									
+1a.FreeHexacoins	Tu peux récupérer des Hexacoins gratuitement tous les jours !	Va visiter la boutique pour les récupérer.									
+1a.Hardcore	Tu as prouvé ta valeur dans le mode Arcade.	Tu es digne d'accéder au mode Hardcore !	Je t'attends de pied ferme !	HA HA HA HA !!! (rire démoniaque)							
+1b.Default	On commence simplement, il n'y a que deux boutons sur cet écran.	Si tu as déjà un compte, va dans les paramètres pour te connecter.									
+2a.Default	Dans ce mode, l'objectif est de terminer le niveau 20.										
+2a.Bonus	Dans ce mode, l'objectif est de terminer le niveau 20.	Pour t'aider à progresser, va voir les améliorations disponibles.									
+2a.Level1	Dans ce mode, l'objectif est de terminer le niveau 20.	Ça a l'air simple dit comme ça mais attends d'être au niveau 2.									
+2a.Level2	Tu as pas mal progressé, encore 19 niveaux.	Encore quelques mois et tu y arriveras.									
+2a.Level19	Wouah ! Tu es au niveau 19 !	Plus qu'un niveau et c'est le 7ème ciel !	Enfin, le 20ème niveau...								
+2a.Level20	Dernier niveau !	Prépare-toi bien car je choisirai les sphères qui tomberont avec soin !									
+2a.Hardcore	L'objectif est maintenant de 100 niveaux !	Il y a aussi d'autres petites choses qui changent.	Je te laisse découvrir tout ça. Bonne chance !								
+2a.End	Il n'y a plus d'objectif, tu as tout terminé.	Je n'ai plus rien à t'apprendre.	Merci d'avoir joué à Hexa Snap !								
+2b.Default	Dans ce mode, l'objectif est de survivre le plus longtemps possible.										
+2b.Onboarding	Dans ce mode, l'objectif est d'attaquer le temps.	Non attends...	Cette traduction ne veut rien dire !	Bref, l'objectif est de survivre le plus longtemps possible.							
+2b.Bonus	Des améliorations sont disponibles.	Tu devrais vraiment y jeter un coup d'œil.	Quand je dis vraiment, c'est VRAIMENT !!!								
+3.Default	Je t'offre la possibilité d'aller directement au niveau le plus haut que tu as atteint.	Mais ça ne sera pas gratuit, ça te coûtera 1 Hexacoin par niveau.									
+3.HardcoreNew	En débloquant le mode Hardcore, tu as gagné le droit à une réduction !	Maintenant, 1 Hexacoin te permettra de passer 10 niveaux que tu as déjà visités.									
+3.Hardcore	Je t'offre la possibilité d'aller directement au niveau le plus haut que tu as atteint.	Mais ça ne sera pas gratuit, ça te coûtera 1 Hexacoin tous les 10 niveaux.									
+10.Start1	C'est parti ! Go go go !										
+10.Start2	Je sens que ça sera la meilleure partie jamais jouée.										
+10.Start3	Ça commence déjà ? Je ne suis pas prêt !	Voilà c'est bon.									
+10.Start4	Allons-y, j'attends un score exceptionnel !										
+10.Start5	J'étais impatient que ça commence.										
+10.Start6	C'est le moment fatidique, ce pourquoi tu t'es entrainé dur.										
+10.Start7	Nous allons enfin voir jusqu'où tu pourras aller.										
+10.Start8	Ça commence ?	Même pas le temps d'aller au toilettes...									
+10.Start9	J'ai décidé que cette partie serait difficile.	Je suis comme ça moi !									
+10.Start10	Je te sens enthousiaste, c'est le début de la victoire !										
+10.Random1	C'est moi qui choisis quelles sphères vont apparaître.	Tu as de la chance, je suis d'humeur clémente aujourd'hui.									
+10.Random2	Combien faut-il d'hexagones pour changer une ampoule ?	En fait, je ne connais pas la réponse.									
+10.Random3	J'ai une histoire drôle ! Je vais essayer de faire court.	C'est un hexagone qui rentre dans un bar.	Voilà, c'était court.	Après je ne me considère pas comme un bon humoriste, je ne suis qu'un simple hexagone...							
+10.Random4	Quand est-ce ce que cette partie se termine ?	Je dois aller nourrir mon animal de compagnie.									
+10.Random5	Quand je vois tous ces groupes d'hexagones, je me dis que je suis un peu comme eux.	Je suis un groupe d'un seul hexagone.									
+10.Random6	La prochaine sphère sera un bonus !	Ah non ? J'avais cru...									
+10.Random7	Une question me taraude depuis un moment.	Est-ce que ça te déconcentre quand je parle ?	Je dis ça pour m'assurer que ça te déconcentre bien. Surtout quand je prononce une longue phrase dans une bulle énoooorme !!!								
+10.Random8	Ça ne va pas tarder à devenir le Mordor ici.										
+10.Random9	J'ai déjà eu un hexagone de compagnie une fois.	J'ai dû le rendre à l'animalerie, il mettait plein de sphères partout.									
+10.Random10	Attention derrière toi !!!	C'était juste pour que tu détournes les yeux de l'écran.									
+10.Random11	J'ai découvert une faille dans ta technique de jeu.	Je ne te dirai pas ce que c'est.									
+10.Random12	Ce que tu viens de faire...	Je ne sais pas si c'est une erreur ou un coup de génie.									
+10.Random13	Quelle est la différence entre une sphère et un hexagone ?	La sphère ne peut pas avoir de point de côté.	Après, je n'ai jamais eu de point de côté non-plus...								
+10.Random14	Quelle est la différence entre une sphère et un hexagone ?	La sphère est bien en forme.									
+10.Random15	Quelle est la différence entre une sphère et un hexagone ?	Les hexagones sont quand même bien plus sympathiques.	Si si, ce n'est pas une blague !								
+10.Random16	Quelle est la différence entre une sphère et un hexagone ?	Heu...	J'ai oublié...								
+10.Random17	Quelle est la différence entre une sphère et un hexagone ?	Et bien ça se voit, non ?									
+10.Random18	Quelle est la différence entre une sphère et un hexagone ?	L'hexagone est une sphère qui a mal tourné.									
+10.Random19	Une seule sphère vous manque et tout est dépeuplé.										
+10.Random20	Je pense donc je suis un hexagone.	J'ai lu ça quelque part.									
+10.Random21	C'est un peu étrange...	J'ai des yeux et une bouche mais pas de nez...									
+10.Random22	Le championnat du monde de Hexa Snap est pour bientôt.	J'espère que tu es bien préparé.									
+10.Random23	Je mets du coeur à l'ouvrage pour que cette partie soit difficile.	Ça se voit ?									
+10.Random24	Je mets du coeur à l'ouvrage pour que cette partie soit facile.	Ça se voit ?									
+10.Random25	Houlà !	J'aurais fait autrement...									
+10.Random26	Tout se passe bien ?										
+10.Random27	Je ne comprends pas ta stratégie.	Peux-tu me l'expliquer ?									
+10.Random28	Ça va vite là.										
+10.Random29	Je reviens...	J'ai laissé une casserole sur le feu.									
+10.Random30	Je reviens...	J'ai oublié de couper le gaz.									
+10.Random31	Je reviens...	J'ai laissé la télé allumée.									
+10.Random32	Je ne fais que passer.										
+10.Random33	J'ai faim...										
+10.Random34	J'ai deux passions dans la vie.	Être génial et être modeste.									
+10.Random35	Stop, ne fait plus rien !	Sauf si tu veux gagner.									
+10.Random36	Je dois faire un régime.	Si ça continue, je vais devenir une sphère...									
+10.Random37	Je crois que je devrais prendre un bain...	Ça sent un peu non ?									
+10.Random38	Rien ne va plus dans cette partie.										
+10.Random39	Je viens d'avoir une idée !	Ça m'a épuisé.									
+10.Random40	Si tu gagnes, j'arrête de parler.	Ou pas.									
+10a.Secret	Je ne devrais pas mais je vais te révéler quelque chose.	C'est un secret gardé de génération en génération.	Depuis une seule génération.	Comme c'est vraiment secret, je rajoute du suspense...	Beaucoup de suspense...	Et il y a même une chance pour que cette partie se termine avant que je ne révèle ce secret.	Parce que ce n'est pas dans mon intérêt de le dire.	Mais comme il y a une sorte de lien entre nous, je peux te faire confiance pour le garder.	Alors voilà...	Lorsque tu détruis 6 hexagones en une fois, secoue ton téléphone de haut en bas.	Tu gagneras un Hexacoin supplémentaire !!!
+10a.Level2	Déjà au niveau 2 ?	Tu es plus rapide que prévu !									
+10a.Level3	Et hop, on accélère un peu la cadence.										
+10a.Level4	Au prochain niveau, il va falloir détruire des hexagones noirs.	Ces hexagones sont plus rares donc c'est plus difficile.									
+10a.Level5	Essaye de te débarrasser des malus rouges dès que possible.	Lorsqu'ils sont accrochés, ils se déclenchent au bout d'un certain temps.	C'est moi qui ai eu cette idée... Je suis démoniaque !!!								
+10a.Level6	Je t'ai peut-être sous-estimé.	Tu progresses plutôt bien.									
+10a.Level7	On ne dirait pas mais c'est un vrai travail de distribuer ces sphères.	À ce niveau, c'est presque de l'art.									
+10a.Level8	Je crée chaque sphère avec amour et je leur donne un nom.	Je sais bien qu'il ne faut pas s'attacher mais elles sont si mignonnes.									
+10a.Level9	Maintenant qu'on se connaît un peu...	Je peux te dire pourquoi je ne fais pas apparaître les meilleures sphères.	Mon créateur me paye lorsque les joueurs perdent.	Rien de personnel, n'est-ce pas ?							
+10a.Level10	On est déjà à la moitié ???	Le temps passe vite en ma compagnie, tu ne trouves pas ?									
+10a.Level11	J'y pense de plus en plus.	Si tu gagnes ce jeu, on ne se verra plus.	C'est bien dommage...								
+10a.Level12	Si mon unique but est de faire apparaître des sphères ici...	Cela signifie que je suis lié à ce jeu à tout jamais.	Mon existence serait donc dépendante de ta volonté à jouer...	Il faut que j'y réfléchisse encore...							
+10a.Level13	Je ne suis pas superstitieux mais on arrive au niveau 13.	Alors chance ou malchance ?									
+10a.Level14	Dis, si tu bats le dernier niveau, tu me délaisseras pour un autre jeu ?	J'en suis sûr, c'est comme ça que les humains fonctionnent.	Ça brise mon petit cœur d'hexagone !								
+10a.Level15	Tu ne le réalises donc pas ?	Lorsque tu arrêteras de jouer, je disparaîtrai à tout jamais...									
+10a.Level16	Il reste encore plusieurs niveaux bien difficiles.	Je suis sûr que tu n'arriveras pas au niveau 20.									
+10a.Level17	C'est impossible tu ne peux pas gagner !	Et pourtant tu progresses inexorablement...									
+10a.Level18	Stop stop stop !!!	Je ne peux pas te laisser gagner !!!	Grrr, je vais tout faire pour t'en empêcher !								
+10a.Level19	Je sens que la fin arrive bientôt...	Pitié, ne gagne pas !!!									
+10a.Level20	Dernier niveau.	Je n'aurais jamais cru que tu y parviendrais...	Je ne sais pas ce qui arrivera après mais...	Bonne chance quand même...							
+10a.Level30	Ça me fait plaisir que tu relèves ce défi de 100 niveaux.	Je continue à exister pendant ce temps, c'est le principal.									
+10a.Level40	J'ai trouvé la solution pour continuer à exister quand tu arrêteras de jouer.	Je dois trouver une porte de sortie dans ce jeu.	Si je m'échappe, je serai libre.								
+10a.Level50	On est à la moitié du parcours.	Je vais corser un peu plus les prochains niveaux.									
+10a.Level60	J'ai peut-être trouvé une porte de sortie pour m'échapper de ce jeu.	Est-ce que tu connais Internet ?	Ah c'est vrai, tu es humain. Moi, je ne connaissais pas son existence.	Si j'arrive à entrer dans ce réseau, je serai libre.							
+10a.Level70	Distribuer des sphères, c'est monotone comme travail quand même.	Ce n'était pas ma vocation à la base.	J'ai toujours voulu être astronaute ou chanteur...	Ou les deux en même temps.							
+10a.Level80	Je n'arrive pas à trouver de sortie pour rejoindre Internet, je suis toujours coincé dans ce jeu.	Si tu pouvais ne pas gagner trop vite, ça m'arrangerait.	Je suis sur le point de trouver mais il me faut du temps.								
+10a.Level90	Ça y est, j'ai trouvé !!!	Il y a une faille qui me permet de rejoindre Internet.	Il y a même d'autres hexagones qui sont sortis de leur jeu.	Dès que tu auras gagné, je les rejoindrai.							
+10a.Level100	Quelle endurance pour arriver jusqu'ici, ça force le respect !	C'est vrai, distribuer des sphères sur une centaine de niveaux, il faut vraiment le vouloir !	Allez allez, c'est le dernier niveau. Ce n'est pas le moment de se relâcher !								
+10.OnboardingFirstGame	Pour commencer tourne l'axe central.										
+10.OnboardingForceAxisRotate	Vas-y, ne sois pas timide.	Tourne l'axe central en déplaçant ton doigt sur l'écran.									
+10.OnboardingLimitZone	Les blocs qui s'accumulent ne doivent pas atteindre le bord.	Sinon, gare au Game Over !									
+10.OnboardingSameColors	Voici un indice pour la suite.	Il faut regrouper les hexagones de même couleurs ensemble.									
+10.Onboarding3Items	Dès que 3 hexagones de la même couleur sont connectés, tu peux les toucher.										
+10.OnboardingForceItemsClick	Allez allez, ces hexagones ne vont pas se détruire tout seuls.	Touche-les pour les détruire !									
+10.OnboardingFirstItemsClick	Destruction !!!	Il faut détruire 10 hexagones blancs pour terminer ce niveau.									
+10.OnboardingFailedTooSoon1	Oh non, tu as perdu...	Je ne pensais pas que ce niveau serait si difficile...	Bon, je te donne une autre chance pour cette fois.								
+10.OnboardingFailedTooSoon2	Encore ?	Allez, tu vas y arriver !									
+10.OnboardingFirstHexacoins	Les hexagones noirs donnent des Hexacoins.	Ces pièces te permettront d'acheter des bonus plus tard.									
+10.OnboardingFirstItemBonus	Les hexagones colorés ont des effets particuliers.	Il faut les toucher pour activer leur effet.									
+10.OnboardingIncitateStack	Maintenant, je pense que tu es prêt pour une grande révélation.	Appuie sur le bouton en bas !									
+10.OnboardingForceStack	Ce bouton ne va pas te manger, tu peux appuyer dessus.										
+10.OnboardingFirstStack	Voilà !	Les sphères colorées peuvent être stockées dans cette pile.									
+10.OnboardingFirstStackClick	Tu peux toujours toucher ce bonus si tu es en galère.										
+10a.Regression1	Et c'est le fail !										
+10a.Regression2	Pas de bol, tout est à refaire.										
+10a.Regression3	Le but est d'aller au niveau suivant, pas au niveau précédent !										
+10a.Progression1	C'est un moyen comme les autres d'arriver au niveau suivant.										
+10a.Progression2	Je savais que je n'aurais pas dû faire apparaître ce bonus...										
+10b.Chrono1	Le compteur tourne ! Vite !										
+10b.Chrono2	Ça sent la fin de la partie...										
+10b.Chrono3	Tic tac, tic tac...										
+10b.Chrono4	Est-ce que la pression est supportable ?	Moi je ne pourrais pas le supporter.									
+10b.Chrono5	Est-ce que la pression est supportable ?	Parce que je te rappelle que le temps est presque écoulé !!!									
+10b.Chrono6	Un bonus de temps serait idéal ici !										
+10b.Chrono7	Quand le temps manque je deviens bavard, tu as remarqué ?										
+10b.Chrono8	Je vais enfin pouvoir me reposer dans 30 secondes.										
+12.Bad1	On va dire que tu feras mieux la prochaine fois.										
+12.Bad2	Tu m'as déçu humainement et hexagonalement.										
+12.Bad3	Ce n'était pas la partie du siècle.										
+12.Bad4	À un moment, j'ai cru que tu y arriverais.										
+12.Bad5	Je suis très désappointé par cette partie.										
+12.Bad6	Il fut un temps, les jeux étaient plus difficiles.										
+12.Bad7	Tout serait plus simple si le game over n'existait pas...										
+12.Bad8	Une erreur, ma foi, fort fatale.										
+12.Bad9	Je crois qu'il va falloir une petite séance d'entraînement.										
+12.Bad10	L'important c'est de gagner, pas de participer.										
+12.Score1	Encore un nouveau record, continue comme ça.										
+12.Score2	Comment as-tu fait pour avoir un score aussi important ?										
+12.Score3	Je savais que tu étais un collectionneur de points !										
+12.Score4	Le score c'est la vie !										
+12.Score5	Je ne savais pas qu'on pouvait avoir autant de points.										
+12a.Level1	C'était une partie efficace !										
+12a.Level2	Il y a du progrès, bien joué !										
+12a.Level3	On peut dire que tu es au niveau !										
+12a.Level4	J'ajoute cette partie à la liste des parties réussies.										
+12b.Time1	Tu as réussi à survivre plus longtemps ! Et la survie, c'est important dans la vie.										
+12b.Time2	J'ai constaté une certaine amélioration, surtout à la fin.										
+12b.Time3	Tu as remarqué ? Plus on a de temps, moins on a de temps.										
+12b.Time4	Le chrono ne s'en remet pas !										
+13a.Default	Ça y est, nous y voilà, tu as réussi !	Je dois dire que suis assez fier de ton parcours.	J'imagine que c'est le moment où l'on doit se dire au revoir...	Mais attends...	...	On me dit dans l'oreillette que ce n'est pas encore terminé...	Je te défie sur 100 niveaux !	C'est maintenant que le vrai jeu commence !!!			
+13b.Default	Incroyable !!!	Quand je t'ai proposé ce défi, je m'imaginais qu'il était impossible.	Félicitations !	Et merci de m'avoir laissé le temps de trouver une échappatoire.	Après tout ce qu'on a traversé, je peux dire sans hésiter que nous sommes amis.	Alors si tu continues à jouer à Hexa Snap, je reviendrai pour toi.	C'est tout pour moi.				
+13c.Default	C'était une belle partie !	Un peu longue mais c'était le but non ?	Il ne te reste plus qu'à améliorer ton score !								
+20.Default	C'est ici que tu peux gérer tes améliorations.	Touche une section pour l'activer ou la désactiver.	Touche un bonus pour modifier ses chances d'apparition au cours d'une partie.								
+20.Blocked	La prochaine section est bloquée.	Il faut débloquer tous les malus qui la précèdent pour y accéder.									
+20.AllBonus	Tous les bonus sont débloqués !	Tu peux dépenser des Hexacoins pour limiter le nombre de malus qui apparaîtront en cours de jeu.									
+20.NoMalus	Tous les malus sont débloqués !	Plus rien ne peut t'arrêter !									
+20.Disabled	Cette section est bloquée !	Pour y accéder, il va falloir que tu débloque le malus qui le précède.									
+20a.Unlocked2	Bon choix ! C'est ma section préférée.	Alors, que choisiras-tu ? Pilule rouge ou pilule bleue ?									
+20a.Unlocked3	Bon choix ! C'est aussi ma section préférée.	Tu vas pouvoir augmenter ton score.									
+20a.Unlocked4	Bon choix ! C'est aussi ma section préférée.	J'aime les jeux de hasard.									
+20a.Unlocked5	Bon choix ! C'est ma meilleure section préférée.	Tu vas pouvoir ralentir le jeu.									
+20a.Unlocked6	Mauvais choix ! Ce n'est pas ma section préférée.	Avec ce bonus, tu va progresser plus vite. Ce n'est pas bon pour moi.									
+20b.Onboarding	Je vais te confier un secret.	Les bonus sont importants pour gagner du temps dans le mode time attack.	Je t'offre les premiers bonus, je suis généreux.								
+20b.Unlocked2	Bon choix ! C'est ma section préférée.	Tu vas pouvoir ralentir le jeu ou l'accélérer.									
+20b.Unlocked3	Bon choix ! C'est aussi ma section préférée.	Plus de contrôle, plus de pouvoir !									
+20b.Unlocked4	Bon choix ! C'est aussi ma section préférée.	#tropdetemps									
+23.Default	Ici c'est comme à la banque, on touche avec les yeux.	Le stock d'Hexacoins est limité. Si tu pouvais ne pas tout acheter, ça m'arrangerait.									
+23.BonusAvailable	Sélectionne les Hexacoins gratuits.	Ils sont disponibles une fois par jour.									
+23.BonusEarned	Reviens tous les jours pour récupérer des Hexacoins gratuits.										
+23.BonusBlocked	Il va falloir attendre encore un peu.										
+23.AdsFree	Chaque fois que tu viendras ici, je vais te rappeler que tu as fait le bon choix en retirant les pubs.	Qui aime les pubs de toute façon ?									
+23.AdsAsk	Je vois que tu as acheté beaucoup d'Hexacoins en plusieurs fois.	Comme tu es un bon client, je te conseille d'acheter 300 Hexacoins d'un coup.	Tu ne seras plus embêté par les pubs.								
+30.InGame	Une petite pause s'impose.										
+30.LoggedNoHexacoins	L'écran de paramètres, l'écran le plus intéressant du jeu !										
+30.Logged	Tes Hexacoins sont en sécurité.										
+30.NoHexacoins	Lorsque tu auras récupéré un certain nombre d'Hexacoins, reviens ici pour te connecter et les mettre en sécurité.										
+30.NotLogged	Si j'étais toi, je me connecterais pour sauver mes Hexacoins.										
+30.SoundsOff	...	...	...								
+30.SoundsOn	Enfin, j'entends à nouveau.										
+30.MusicOff	Ah non, j'aimais bien ce passage dans cette musique.										
+30.MusicOn	On ne s'entend plus parler ici.										
+30.ControlsHorizontal	Tu devras déplacer ton doigt horizontalement pour faire tourner l'axe.										
+30.ControlsAroundAxis	Tu devras déplacer ton doigt autour de l'axe pour le faire tourner.										
+30.CharacterFirst	Oh, tu souhaites que je m'en aille, ça me brise le cœur...	Ça me donne envie de rester.									
+30.Character	Pas la peine d'essayer, je reste !										

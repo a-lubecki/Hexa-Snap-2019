@@ -1,0 +1,36 @@
+apply plugin: 'com.android.library'
+
+allprojects {
+    repositories {
+        jcenter()
+        maven { url 'https://maven.google.com' }
+    }
+}
+
+android {
+
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+
+        resValue "string", "SHARE_PROVIDER", '"com.hexasnap.fileprovider"'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+}
+
+dependencies {
+
+    compileOnly files('./libs/classes.jar') //found in : /Applications/Unity/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Development/Classes
+
+    compileOnly 'androidx.legacy:legacy-support-v4:1.0.0'
+}

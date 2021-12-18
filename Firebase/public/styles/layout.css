@@ -1,0 +1,447 @@
+/* default */
+
+:root {
+    --dimension-height-line: 100px;
+}
+
+* {
+    flex-grow: 1;
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body {
+	position: relative;
+    overflow-x: hidden;
+}
+
+.flex-v {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-h {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-table {
+    flex-wrap: wrap;
+    align-items: stretch;
+    text-align: center;
+    max-width: 1500px;
+}
+
+.flex-table-elem {
+    min-width: 250px;
+    max-width: 350px;
+    align-content: flex-start;
+}
+
+h1 {
+    text-align: center;
+    margin: 60px 0 60px 0;
+}
+
+h2 {
+    margin: 40px 0 10px 0;
+}
+
+h6 {
+    margin: 10px;
+}
+
+p {
+    margin: 20px 0;
+}
+
+ul {
+    padding-inline-start: 30px;
+    padding-bottom: 10px;
+}
+
+li {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.button {
+    margin: 20px;
+}
+
+.button img {
+    margin-bottom: 8px;
+}
+
+blockquote {
+    text-align: center;
+    margin: 20px;
+    padding: 0px 20px 20px 20px;
+}
+
+blockquote p {
+    padding: 8px;
+    margin: 10px;
+}
+
+cite {
+    text-align: center;
+}
+
+header {
+    margin: 30px 10px 20px 10px;
+}
+
+footer {
+    width: 100%;
+    margin-top: 50px;
+}
+
+footer > * {
+    margin: 30px 30px 100px 30px;
+}
+
+footer ul {
+    margin-top: 20px;
+}
+
+footer li {
+    margin: 4px 0;
+}
+
+footer li a {
+    margin: 10px;
+}
+
+/* specific */
+
+#hexa-snap-logo {
+    width: 300px;
+    height: auto;
+    margin-top: 50px;
+}
+
+#hexa-snap-icon {
+    width: auto;
+    height: 120px;
+    margin-right: 20px;
+}
+
+.link-store {
+    width: 200px;
+    height: 60px;
+    margin: 4px;
+}
+
+#hexa-snap-capture {
+    width: 350px;
+    height: 700px;
+    margin: 80px 50px 50px 50px;
+}
+
+#hexa-snap-capture * {
+    width: 350px;
+    height: 700px;
+    position: absolute;
+}
+
+#hexa-snap-capture video {
+    width: 310px;
+    height: 670px;
+    margin: 20px;
+}
+
+#section-social {
+    margin-bottom: 40px;
+}
+
+#character {
+    margin-top: 80px;
+    margin-left: 180px;
+    margin-bottom: -30px;
+}
+
+#character-background {
+    width: 400px;
+    height: 200px;
+}
+
+#character-speech {
+    position: relative;
+    width: 200px;
+    top: 120px;
+    left: 24px;
+    margin-top: -120px;
+    text-align: center;
+}
+
+.social {
+    margin: 20px;
+}
+
+.button-icon {
+    height: 70px;
+}
+
+.text-box {
+    width: 80%;
+    max-width: 800px;
+    padding: 40px;
+    margin: 30px 0;
+}
+
+.card {
+    margin: 20px;
+    padding: 40px;
+}
+
+.game-icon {
+    width: auto;
+    height: 100px;
+}
+
+.illustration-box {
+    width: 70%;
+    min-width: 300px;
+    max-width: 1000px;
+}
+
+.illustrated-text {
+    max-width: 400px;
+    margin-bottom: 30px;
+}
+
+.text-left {
+    align-self: flex-start;
+}
+
+.text-right {
+    align-self: flex-end;
+}
+
+.text-left, .text-right {
+    text-align: center;
+}
+
+.app-links-container {
+    max-width: 450px;
+    margin: 20px;
+    padding: 0;
+}
+
+.award {
+    width: 400px;
+    min-width: 400px;
+    margin: 20px;
+}
+
+.award p {
+    margin: 10px;
+}
+
+.bg-line {
+    position: absolute;
+    height: var(--dimension-height-line);
+    left: 0;
+    right: 0;
+    margin-top: calc(30px - 0.5 * var(--dimension-height-line));
+}
+
+.bg-line-end {
+    position: absolute;
+    width: var(--dimension-height-line);
+    height: var(--dimension-height-line);
+}
+
+#bg-line-stores {
+    height: 300px;
+    top: 400px;
+}
+
+#big-hexagon-1, #big-hexagon-2 {
+    position: absolute;
+    width: 1000px;
+    height: 896px;
+}
+
+#big-hexagon-1 {
+    top: 400px;
+    right: 75%;
+}
+
+#big-hexagon-2 {
+    top: -250px;
+    left: 75%;
+}
+
+#copyright {
+    text-align: center;
+    line-height: 2em;
+    margin-top: 20px;
+}
+
+/* smallest screens */
+@media (max-width: 700px) {
+    #character-background {
+        width: 350px;
+        height: 200px;
+    }
+    #character {
+        margin-left: 20px;
+        margin-bottom: 0;
+    }
+    #character-speech {
+        width: 170px;
+    }
+    .social {
+        margin: 0;
+    }
+    .button {
+        margin: 12px;
+    }
+    .button-icon {
+        width: 60px;
+        height: auto;
+    }
+    .button-text {
+        display: none;
+    }
+}
+
+/* small screens */
+
+@media (max-width: 900px) {
+    header {
+        width: auto;
+        height: 0px;
+    }
+    .flex-table {
+        width: 100%;
+    }
+    .flex-table-elem {
+        width: 100%;
+        min-width: auto;
+    }
+    #big-hexagon-1, #big-hexagon-2 {
+        display: none;
+    }
+    #section-main {
+        flex-direction: column;
+        margin-top: 80px;
+    }
+    #hexa-snap-icon {
+        width: auto;
+        height: 90px;
+    }
+    .link-store {
+        width: 160px;
+        height: 50px;
+    }
+    #hexa-snap-capture, #hexa-snap-capture * {
+        width: 244px;
+        height: 500px;
+    }
+    #hexa-snap-capture video {
+        width: 220px;
+        height: 475px;
+        margin: 12px;
+    }
+    .card h2 {
+        margin-top: 30px;
+    }
+    .game-icon {
+        height: 60px;
+    }
+    .text-box {
+        width: 90%;
+        margin: 0;
+    }
+    .text-left, .text-right {
+        align-self: center;
+    }
+    .bg-line-end {
+        display: none;
+    }
+    #bg-line-stores {
+        top: 270px;
+        height: 170px;
+    }
+    #footer-legal {
+        flex-direction: column;
+        margin-top: 20px;
+    }
+    footer {
+        margin-top: 0;
+    }
+}
+
+/* small screens with portrait orientation */
+
+@media (max-width: 900px) and (orientation: portrait) {
+    header {
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+        height: 70px;
+        margin: 0;
+        z-index: 100;
+    }
+    header * {
+        height: 44px;
+        width: auto;
+    }
+    #bg-line-stores {
+        top: 0;
+        height: 400px;
+    }
+}
+
+/* middle screens */
+
+@media (min-width: 700px) and (max-width: 900px) {
+    #section-main {
+        flex-direction: row;
+    }
+    #bg-line-stores {
+        height: 250px;
+        top: 320px;
+    }
+}
+
+/* ipad format */
+
+@media (min-width: 700px) and (max-width: 900px) and (orientation: landscape) {
+    #section-main {
+        margin-top: 0;
+    }
+    #bg-line-stores {
+        height: 150px;
+        top: 350px;
+    }
+}
+
+/* big screens */
+
+@media (min-width: 900px) {
+    #bg-line-title-game, #bg-line-title-about {
+        right: 50%;
+        margin-right: -150px;
+    }
+    #bg-line-end-title-game, #bg-line-end-title-about {
+        right: 0;
+        margin-right: calc(-0.5 * var(--dimension-height-line));
+    }
+    #bg-line-title-awards {
+        left: 50%;
+        margin-left: -180px;
+    }
+    #bg-line-end-title-awards {
+        left: 0;
+        margin-left: calc(-0.5 * var(--dimension-height-line));
+    }
+}

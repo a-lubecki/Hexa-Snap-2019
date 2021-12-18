@@ -1,0 +1,197 @@
+/* default */
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+}
+
+/* specific */
+
+#hexa-snap-icon {
+    border-radius: 15px;
+    box-shadow: 0px 0px 5px gray;
+    animation: shake 2s ease-in-out 3s infinite;
+}
+
+#hexa-snap-capture {
+    z-index: 1;
+}
+
+.text-box {
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px lightgray;
+    z-index: 0;
+}
+
+.text-box ul {
+    list-style-type: disc;
+}
+
+.bg-line, .bg-line-end {
+    z-index: -1;
+}
+
+.bg-line-end {
+    border-radius: 50%;
+}
+
+#bg-line-stores {
+    z-index: -10;
+}
+
+#big-hexagon-1, #big-hexagon-2 {
+    background-image: url(/images/big-hexagon.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    z-index: 1;
+}
+
+#big-hexagon-1 {
+    transform: rotate(25deg);
+    animation: rotation 150s linear reverse infinite;
+}
+
+#big-hexagon-2 {
+    transform: rotate(10deg);
+    animation: rotation 300s linear infinite;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0px 30px 20px -30px lightgrey;
+}
+
+.award:before, .award:after {
+    width: 42px;
+    min-width: 42px;
+    height: 100px;
+    min-height: 100px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    content: "";
+}
+
+.award::before {
+    background-image: url(/images/laurel-left.png);
+}
+
+.award::after {
+    background-image: url(/images/laurel-right.png);
+}
+
+blockquote {
+    quotes: "«" "»";
+    border-radius: 10px;
+    box-shadow: 0px 20px 20px -20px lightgrey;
+}
+
+blockquote p {
+    border-bottom: 2px solid var(--color-highlight-dark);
+}
+
+blockquote p:before {
+    content: open-quote;
+}
+
+blockquote p:after {
+    content: close-quote;
+}
+
+blockquote p:before, blockquote p:after {
+    margin: 10px;
+    font-size: 24px;
+    vertical-align: -2px;
+}
+
+cite:before {
+    content: " -- ";
+}
+
+cite:after {
+    content: " -- ";
+}
+
+.text-left, .text-right {
+    text-shadow: 0px 0px 8px black;
+}
+
+footer ul, #section-main ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+footer li:before, #section-main li:before {
+    content: none;
+    padding: 0;
+}
+
+footer li+li:before {
+    content: "|";
+}
+
+/* small screens */
+
+@media (max-width: 900px) {
+    #footer-legal li:before {
+        content: "";
+    }
+    .text-box {
+        border-radius: 0;
+        box-shadow: none;
+    }
+}
+
+/* small screens with portrait orientation */
+
+@media (max-width: 900px) and (orientation: portrait) {
+
+    header {
+        box-shadow: 0px 0px 6px #00000077;
+        z-index: 100;
+    }
+}
+
+/* animations */
+
+@keyframes shake {
+    from {
+        transform: none;
+    }
+    5% {
+        transform: rotate(-5deg);
+    }
+    10% {
+        transform: rotate(5deg);
+    }
+    15% {
+        transform: rotate(-5deg);
+    }
+    20% {
+        transform: rotate(5deg);
+    }
+    25% {
+        transform: none;
+    }
+    to {
+        transform: none;
+    }
+}
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

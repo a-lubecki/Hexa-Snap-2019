@@ -1,0 +1,57 @@
+<footer class="flex-v">
+
+    <div class="flex-v">
+
+        <ul class="flex-h">
+            <li>
+                <a href="https://www.facebook.com/hexasnap" target="_blank"
+                    onclick="return trackOutboundLink(this, 'redirect', 'footer');">Facebook</a>
+            </li>
+            <li>
+                <a href="https://twitter.com/HexaSnap" target="_blank"
+                    onclick="return trackOutboundLink(this, 'redirect', 'footer');">Twitter</a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/hexa_snap" target="_blank"
+                    onclick="return trackOutboundLink(this, 'redirect', 'footer');">Instagram</a>
+            </li>
+        </ul>
+
+        <ul class="flex-h">
+            <li>
+                <a href="<%= req.path + '?lang=en' %>">English</a>
+            </li>
+            <li>
+                <a href="<%= req.path + '?lang=fr' %>">Français</a>
+            </li>
+        </ul>
+
+        <ul class="flex-h" id="footer-legal">
+            <li>
+                <a href="mailto:contact@hexasnap.com"
+                    onclick="return trackOutboundLink(this, 'redirect', 'footer');"><%- tr('contact') %></a>
+            </li>
+            <li>
+                <a href="mailto:support@hexasnap.com"
+                    onclick="return trackOutboundLink(this, 'redirect', 'footer');"><%- tr('support') %></a>
+            </li>
+            <li>
+                <a href="/terms" target="_blank"><%- tr('terms') %></a>
+            </li>
+            <li>
+                <a href="/privacy" target="_blank"><%- tr('privacy') %></a>
+            </li>
+            <li>
+                <a href="/legal" target="_blank"><%- tr('legal') %></a>
+            </li>
+        </ul>
+
+        <div class="flex-v" id="copyright">
+            ⬣ ⬣ ⬣ ⬣ ⬣<br />
+            <%- tr('copyrigh_rights') %><br />
+            <br />
+        </div>
+
+    </div>
+
+</footer>

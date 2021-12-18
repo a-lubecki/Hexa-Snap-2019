@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8485"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="HexaSnap_social.svg">
+  <defs
+     id="defs8479">
+    <linearGradient
+       id="linearGradient8108"
+       inkscape:collect="always">
+      <stop
+         id="stop8104"
+         offset="0"
+         style="stop-color:#e6e6e6;stop-opacity:1" />
+      <stop
+         id="stop8106"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5785">
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="0"
+         id="stop5787" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0.18452381"
+         offset="1"
+         id="stop5789" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4549">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop4551" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop4553" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5292"
+       x="-0.108"
+       width="1.216"
+       y="-0.108"
+       height="1.216">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.8944642"
+         id="feGaussianBlur5294" />
+    </filter>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5785"
+       id="radialGradient4894"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.88049624,-0.00420513,0.00417812,0.8748401,6163.0903,5643.5276)"
+       cx="6010.0117"
+       cy="4814.9355"
+       fx="6010.0117"
+       fy="4814.9355"
+       r="997.07538" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4549"
+       id="radialGradient4896"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.87572767,0,25.820511)"
+       cx="755.63934"
+       cy="207.77362"
+       fx="755.63934"
+       fy="207.77362"
+       r="94.071136" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8108"
+       id="linearGradient4898"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-4819.4305,14420.756)"
+       x1="4180.769"
+       y1="-2606.9153"
+       x2="3411.7903"
+       y2="-4100.6782" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8108"
+       id="linearGradient3677"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-4819.4305,14420.756)"
+       x1="4180.769"
+       y1="-2606.9153"
+       x2="3411.7903"
+       y2="-4100.6782" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="3332.1432"
+     inkscape:cy="-4493.8453"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g3701"
+     showgrid="false"
+     inkscape:window-width="2048"
+     inkscape:window-height="1072"
+     inkscape:window-x="1920"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata8482">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0.74144893,0,0,0.24706462,742.80566,-2588.0776)"
+       id="use5874-0"
+       style="stroke-width:0.3147338"
+       inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Stores/TwitterBanner.png"
+       inkscape:export-xdpi="35.880001"
+       inkscape:export-ydpi="35.880001">
+      <rect
+         inkscape:export-ydpi="9"
+         inkscape:export-xdpi="9"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/AppIcon/AppIcon_1024.png"
+         ry="0"
+         y="10330.67"
+         x="-1836.2296"
+         height="1468.5459"
+         width="1468.5459"
+         id="rect9110"
+         style="opacity:1;fill:url(#linearGradient4898);fill-opacity:1;stroke:none;stroke-width:3.35650539;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="translate(0,52.362293)"
+         id="path9112"
+         d="m -1836.2305,10278.309 v 673.134 h 219.377 l 205.4121,-355.785 -183.2227,-317.349 z"
+         mask="none"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:73.45681763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="translate(0,52.362293)"
+         id="path9114"
+         d="m -1637.0742,10278.309 183.2226,317.349 -184.207,319.055 h -198.1719 v 73.457 h 219.377 a 36.732082,36.732082 0 0 0 31.8086,-18.361 l 205.4121,-355.786 a 36.732082,36.732082 0 0 0 0,-36.73 l -172.6192,-298.984 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:73.45681763;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <path
+         d="m -896.54466,10709.16 205.41191,355.783 -205.41188,355.784 -410.82377,0 -205.4119,-355.784 205.4118,-355.783 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-0.52359878"
+         sodipodi:arg1="-1.0471976"
+         sodipodi:r2="355.78384"
+         sodipodi:r1="410.82379"
+         sodipodi:cy="11064.943"
+         sodipodi:cx="-1101.9565"
+         sodipodi:sides="6"
+         id="path9116"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:73.45511627;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+    <g
+       transform="matrix(0.08194231,0,0,0.08194231,-490.872,-1533.1325)"
+       id="g2449-3">
+      <rect
+         rx="0"
+         ry="0"
+         y="19640.645"
+         x="3029.4167"
+         height="1694.1454"
+         width="4056.1008"
+         id="rect2436-9"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:91.80875397;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="21.875994"
+         inkscape:export-xdpi="21.875994"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Menus/Logo.Hexagon.Top.png"
+         sodipodi:type="star"
+         style="opacity:1;fill:#5a5a5a;fill-opacity:1;fill-rule:nonzero;stroke:#2d2d2d;stroke-width:93.62400055;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4428-5"
+         sodipodi:sides="6"
+         sodipodi:cx="3668.553"
+         sodipodi:cy="20275.451"
+         sodipodi:r1="523.61401"
+         sodipodi:r2="453.46298"
+         sodipodi:arg1="-1.0471976"
+         sodipodi:arg2="-0.52359878"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m 3930.36,19821.988 261.807,453.463 -261.807,453.463 -523.614,0 -261.807,-453.463 261.8069,-453.463 z" />
+      <path
+         d="m 4848.409,20353.369 261.8071,453.463 -261.807,453.463 -523.614,0 -261.8071,-453.463 261.807,-453.463 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="-0.52359878"
+         sodipodi:arg1="-1.0471976"
+         sodipodi:r2="453.46298"
+         sodipodi:r1="523.61401"
+         sodipodi:cy="20806.832"
+         sodipodi:cx="4586.6021"
+         sodipodi:sides="6"
+         id="path4430-3"
+         style="opacity:1;fill:#b4b4b4;fill-opacity:1;fill-rule:nonzero;stroke:#6e6e6e;stroke-width:93.62411499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <flowRoot
+         transform="matrix(3.8277204,0,0,3.8277204,3058.683,13968.061)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:204.07371521px;line-height:0.01%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#2d2d2d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4438-1"
+         xml:space="preserve"><flowRegion
+           style="font-size:204.07371521px;fill:#2d2d2d;fill-opacity:1"
+           id="flowRegion4434-1"><rect
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:204.07371521px;line-height:89.99999762%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:start;text-anchor:start;fill:#2d2d2d;fill-opacity:1"
+             y="1479.5068"
+             x="318.19806"
+             height="762.34955"
+             width="989.94946"
+             id="rect4432-2" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:204.07371521px;line-height:0.89999998;font-family:'Komika Display';-inkscape-font-specification:'Komika Display';fill:#2d2d2d;fill-opacity:1"
+           id="flowPara4436-6">Hexa</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4446-91"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#6e6e6e;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.1725784,0,0,1.1725784,4794.5544,18426.771)"><flowRegion
+           style="fill:#6e6e6e;fill-opacity:1"
+           id="flowRegion4442-9"><rect
+             id="rect4440-0"
+             width="2239.9495"
+             height="737.34961"
+             x="318.19806"
+             y="1479.5068"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:150px;line-height:89.99999762%;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';text-align:start;text-anchor:start;fill:#6e6e6e;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:666.17047119px;line-height:0.89999998;font-family:'Komika Display';-inkscape-font-specification:'Komika Display';fill:#6e6e6e;fill-opacity:1"
+           id="flowPara4444-6">Snap</flowPara></flowRoot>    </g>
+    <g
+       id="g10328"
+       transform="matrix(-0.88719018,0,0,0.88719018,511.85428,-413.66977)">
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 358.4107,610.7013 -184.40731,-8.25529 -25.72096,-50.5937 36.03426,-44.56009 171.75541,-7.48353 37.53096,55.03701 z"
+         id="path5588"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5592"
+         d="m 283.51458,600.85562 -20.95783,29.18468 -3.72271,-28.51224"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g10385"
+       transform="matrix(0.81035973,-0.36114199,0.36114199,0.81035973,3.1330218,-52.036267)">
+      <path
+         inkscape:export-ydpi="53"
+         inkscape:export-xdpi="53"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Character/Face.Hexagon.png"
+         d="m 253.00604,454.7948 c -5.13881,2.96689 -54.19908,2.96689 -59.33789,0 -5.13881,-2.9669 -29.66894,-45.45434 -29.66894,-51.38813 0,-5.93378 24.53013,-48.42122 29.66894,-51.38811 5.13882,-2.9669 54.19908,-2.9669 59.33789,0 5.13882,2.96689 29.66895,45.45433 29.66895,51.38812 0,5.93379 -24.53014,48.42123 -29.66895,51.38812 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.1"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.5707963"
+         sodipodi:arg1="1.0471976"
+         sodipodi:r2="51.388115"
+         sodipodi:r1="59.337891"
+         sodipodi:cy="403.40668"
+         sodipodi:cx="223.3371"
+         sodipodi:sides="6"
+         id="path1199"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.83752298;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <g
+         inkscape:export-ydpi="53"
+         inkscape:export-xdpi="53"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Character/Face.SMILE.png"
+         transform="matrix(0.26458333,0,0,0.26458333,783.48243,460.32421)"
+         id="g2093">
+        <rect
+           y="-421.79617"
+           x="-2323.7595"
+           height="413.34958"
+           width="413.34958"
+           id="rect1570"
+           style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:154.98553467;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <ellipse
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse1444"
+           cx="-2191.5574"
+           cy="-259.77359"
+           rx="51.024544"
+           ry="60.784695" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path1446"
+           d="m -2051.1559,-160.28052 c 1.8823,88.8292 -139.7269,90.5853 -140.4741,1.4142 45.839,-24.6896 97.5463,-23.74 140.4741,-1.4142 z"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <ellipse
+           ry="26.239481"
+           rx="19.307758"
+           cy="-259.35928"
+           cx="-2186.9001"
+           id="ellipse1448"
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.89446831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <ellipse
+           ry="60.784695"
+           rx="51.024544"
+           cy="-262.60208"
+           cx="-2048.7214"
+           id="ellipse1450"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <ellipse
+           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.89446831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse1452"
+           cx="-2052.7214"
+           cy="-259.77383"
+           rx="19.307758"
+           ry="26.239481" />
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2051.1559,-160.28052 c 0.4706,22.2073 -8.0271,38.9725 -21.05,50.2355 -25.9934,-42.6063 -73.0105,-37.3504 -96.8951,1.0684 -13.3516,-10.9871 -22.3422,-27.5969 -22.529,-49.8897 45.2595,-23.2194 99.4799,-22.2644 140.4741,-1.4142 z"
+           id="path1454"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10404"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Komika Display';-inkscape-font-specification:'Komika Display';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.15596004,0,0,0.15596004,194.19552,-141.33235)"><flowRegion
+         id="flowRegion10406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Komika Display';-inkscape-font-specification:'Komika Display'"><rect
+           id="rect10408"
+           width="1069.499"
+           height="539.16895"
+           x="-39.774757"
+           y="1250.6827"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Komika Display';-inkscape-font-specification:'Komika Display'" /></flowRegion><flowPara
+         id="flowPara10410"
+         style="font-size:133.33332825px;text-align:center;text-anchor:middle">Will you beat the 20 levels?</flowPara></flowRoot>    <g
+       id="g19818"
+       inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.100.png"
+       inkscape:export-xdpi="57.244698"
+       inkscape:export-ydpi="57.244698"
+       transform="matrix(0.27130986,0,0,0.27130986,-491.1565,1110.4386)">
+      <rect
+         y="-1854.7438"
+         x="686.88062"
+         height="187.82526"
+         width="187.82526"
+         id="rect19722"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="53.549999"
+         inkscape:export-xdpi="53.549999"
+         inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.1000.png"
+         d="m 868.05263,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52359878"
+         sodipodi:arg1="0"
+         sodipodi:r2="75.568886"
+         sodipodi:r1="87.259415"
+         sodipodi:cy="-1760.8312"
+         sodipodi:cx="780.79321"
+         sodipodi:sides="6"
+         id="path3340-6-7"
+         style="opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+    <g
+       id="g19810"
+       inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.5.png"
+       inkscape:export-xdpi="57.0341"
+       inkscape:export-ydpi="57.0341"
+       transform="matrix(0.27130986,0,0,0.27130986,-491.1565,1110.4386)">
+      <rect
+         y="-1854.7438"
+         x="278.17075"
+         height="187.82526"
+         width="187.82526"
+         id="rect19718"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="53.549999"
+         inkscape:export-xdpi="53.549999"
+         inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.20.png"
+         d="m 459.34279,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52359878"
+         sodipodi:arg1="0"
+         sodipodi:r2="75.568886"
+         sodipodi:r1="87.259415"
+         sodipodi:cy="-1760.8312"
+         sodipodi:cx="372.08337"
+         sodipodi:sides="6"
+         id="path3340-66-5"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#828282;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+    <g
+       id="g19814"
+       inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.20.png"
+       inkscape:export-xdpi="57.244698"
+       inkscape:export-ydpi="57.244698"
+       transform="matrix(0.27130986,0,0,0.27130986,-491.1565,1110.4386)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect19720"
+         width="187.82526"
+         height="187.82526"
+         x="482.52573"
+         y="-1854.7438" />
+      <path
+         inkscape:export-ydpi="53.549999"
+         inkscape:export-xdpi="53.549999"
+         inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.100.png"
+         d="m 663.69777,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52359878"
+         sodipodi:arg1="0"
+         sodipodi:r2="75.568886"
+         sodipodi:r1="87.259415"
+         sodipodi:cy="-1760.8312"
+         sodipodi:cx="576.43835"
+         sodipodi:sides="6"
+         id="path3340-3-3"
+         style="opacity:1;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:#464646;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+    <g
+       transform="matrix(0.27130986,0,0,0.27130986,-970.56593,493.79023)"
+       id="g5822"
+       inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+       inkscape:export-xdpi="57"
+       inkscape:export-ydpi="57">
+      <path
+         inkscape:export-ydpi="65.18187"
+         inkscape:export-xdpi="65.18187"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+         d="m 2023.0241,512.02515 -43.6297,75.56887 h -87.2595 l -43.6297,-75.56887 43.6297,-75.56887 87.2595,0 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="0.52359878"
+         sodipodi:arg1="0"
+         sodipodi:r2="75.568886"
+         sodipodi:r1="87.259415"
+         sodipodi:cy="512.02515"
+         sodipodi:cx="1935.7646"
+         sodipodi:sides="6"
+         id="path3340-9"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bebebe;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <g
+         id="g5798"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.5.png"
+         inkscape:export-xdpi="57.0341"
+         inkscape:export-ydpi="57.0341"
+         transform="translate(1563.6813,2272.8563)">
+        <rect
+           y="-1854.7438"
+           x="278.17075"
+           height="187.82526"
+           width="187.82526"
+           id="rect5794"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g10961"
+       transform="matrix(1.007242,0.19223964,-0.19223964,1.007242,-12.893543,87.390933)">
+      <g
+         transform="translate(25.709549,-4.3443049)"
+         id="g10498">
+        <g
+           transform="matrix(0.28222223,0,0,0.28222223,-3807.9513,-2741.6632)"
+           id="g5375"
+           inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Limit.Zone.png"
+           inkscape:export-xdpi="53.549999"
+           inkscape:export-ydpi="53.549999">
+          <circle
+             r="896.03699"
+             cy="9830.5527"
+             cx="11475"
+             id="circle6524-2"
+             style="opacity:1;fill:url(#radialGradient4894);fill-opacity:1;fill-rule:nonzero;stroke:#1e1e1e;stroke-width:23;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Limit.Zone.png"
+             inkscape:export-xdpi="53.549999"
+             inkscape:export-ydpi="53.549999" />
+          <circle
+             inkscape:export-ydpi="53.549999"
+             inkscape:export-xdpi="53.549999"
+             inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Limit.Zone.png"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="circle5371"
+             cx="11475"
+             cy="9830.5527"
+             r="882.77875" />
+        </g>
+        <g
+           id="g19912"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Axis.Default.png"
+           inkscape:export-xdpi="57.034138"
+           inkscape:export-ydpi="57.034138"
+           transform="matrix(0.26458333,0,0,0.26458333,-562.67506,620.03989)">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect19740-5-1"
+             width="187.82526"
+             height="187.82526"
+             x="-119.52328"
+             y="-2313.6389" />
+          <g
+             inkscape:export-ydpi="53.549999"
+             inkscape:export-xdpi="53.549999"
+             inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Axis.Default.png"
+             transform="translate(-781.25,-2427.5)"
+             id="g5296">
+            <path
+               d="m 842.89876,207.77362 -43.62971,75.56887 h -87.25941 l -43.62971,-75.56887 43.62971,-75.56887 87.25941,0 z"
+               inkscape:randomized="0"
+               inkscape:rounded="0"
+               inkscape:flatsided="true"
+               sodipodi:arg2="0.52359878"
+               sodipodi:arg1="0"
+               sodipodi:r2="75.568886"
+               sodipodi:r1="87.259415"
+               sodipodi:cy="207.77362"
+               sodipodi:cx="755.63934"
+               sodipodi:sides="6"
+               id="path4872"
+               style="opacity:1;fill:url(#radialGradient4896);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               sodipodi:type="star" />
+            <circle
+               style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter5292)"
+               id="path4930"
+               cx="755.49353"
+               cy="207.68355"
+               r="32.160713"
+               transform="matrix(1.065611,0,0,1.065611,-49.568666,-13.626321)" />
+          </g>
+        </g>
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-750.32653,447.7124)"
+         inkscape:export-ydpi="57.244698"
+         inkscape:export-xdpi="57.244698"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.100.png"
+         id="g19818-3">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect19722-6"
+           width="187.82526"
+           height="187.82526"
+           x="686.88062"
+           y="-1854.7438" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-6-7-8"
+           sodipodi:sides="6"
+           sodipodi:cx="780.79321"
+           sodipodi:cy="-1760.8312"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 868.05263,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+           inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.1000.png"
+           inkscape:export-xdpi="53.549999"
+           inkscape:export-ydpi="53.549999" />
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-561.46789,540.56851)"
+         inkscape:export-ydpi="57.0341"
+         inkscape:export-xdpi="57.0341"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.5.png"
+         id="g19810-6">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect19718-9"
+           width="187.82526"
+           height="187.82526"
+           x="278.17075"
+           y="-1854.7438" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#828282;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-66-5-8"
+           sodipodi:sides="6"
+           sodipodi:cx="372.08337"
+           sodipodi:cy="-1760.8312"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 459.34279,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+           inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.20.png"
+           inkscape:export-xdpi="53.549999"
+           inkscape:export-ydpi="53.549999" />
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-736.66637,517.75432)"
+         inkscape:export-ydpi="57.244698"
+         inkscape:export-xdpi="57.244698"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.20.png"
+         id="g19814-2">
+        <rect
+           y="-1854.7438"
+           x="482.52573"
+           height="187.82526"
+           width="187.82526"
+           id="rect19720-1"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:#464646;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-3-3-5"
+           sodipodi:sides="6"
+           sodipodi:cx="576.43835"
+           sodipodi:cy="-1760.8312"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 663.69777,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+           inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.100.png"
+           inkscape:export-xdpi="53.549999"
+           inkscape:export-ydpi="53.549999" />
+      </g>
+      <g
+         inkscape:export-ydpi="57"
+         inkscape:export-xdpi="57"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+         id="g5822-8"
+         transform="matrix(0.26458333,0,0,0.26458333,-1015.5904,-130.04001)">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bebebe;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-9-9"
+           sodipodi:sides="6"
+           sodipodi:cx="1935.7646"
+           sodipodi:cy="512.02515"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 2023.0241,512.02515 -43.6297,75.56887 h -87.2595 l -43.6297,-75.56887 43.6297,-75.56887 87.2595,0 z"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+           inkscape:export-xdpi="65.18187"
+           inkscape:export-ydpi="65.18187" />
+        <g
+           transform="translate(1563.6813,2272.8563)"
+           inkscape:export-ydpi="57.0341"
+           inkscape:export-xdpi="57.0341"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.5.png"
+           id="g5798-3">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect5794-3"
+             width="187.82526"
+             height="187.82526"
+             x="278.17075"
+             y="-1854.7438" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-710.00424,517.75432)"
+         inkscape:export-ydpi="57.244698"
+         inkscape:export-xdpi="57.244698"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.100.png"
+         id="g19818-7">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect19722-7"
+           width="187.82526"
+           height="187.82526"
+           x="686.88062"
+           y="-1854.7438" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-6-7-7"
+           sodipodi:sides="6"
+           sodipodi:cx="780.79321"
+           sodipodi:cy="-1760.8312"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 868.05263,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+           inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.1000.png"
+           inkscape:export-xdpi="53.549999"
+           inkscape:export-ydpi="53.549999" />
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-601.86643,563.5202)"
+         inkscape:export-ydpi="57.0341"
+         inkscape:export-xdpi="57.0341"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.5.png"
+         id="g19810-3">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect19718-8"
+           width="187.82526"
+           height="187.82526"
+           x="278.17075"
+           y="-1854.7438" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#828282;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-66-5-9"
+           sodipodi:sides="6"
+           sodipodi:cx="372.08337"
+           sodipodi:cy="-1760.8312"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 459.34279,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+           inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.20.png"
+           inkscape:export-xdpi="53.549999"
+           inkscape:export-ydpi="53.549999" />
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-736.66637,471.31988)"
+         inkscape:export-ydpi="57.244698"
+         inkscape:export-xdpi="57.244698"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.20.png"
+         id="g19814-8">
+        <rect
+           y="-1854.7438"
+           x="482.52573"
+           height="187.82526"
+           width="187.82526"
+           id="rect19720-0"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:#464646;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-3-3-7"
+           sodipodi:sides="6"
+           sodipodi:cx="576.43835"
+           sodipodi:cy="-1760.8312"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 663.69777,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+           inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.100.png"
+           inkscape:export-xdpi="53.549999"
+           inkscape:export-ydpi="53.549999" />
+      </g>
+      <g
+         inkscape:export-ydpi="57"
+         inkscape:export-xdpi="57"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+         id="g5822-3"
+         transform="matrix(0.26458333,0,0,0.26458333,-1055.9127,-60.791378)">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bebebe;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-9-5"
+           sodipodi:sides="6"
+           sodipodi:cx="1935.7646"
+           sodipodi:cy="512.02515"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 2023.0241,512.02515 -43.6297,75.56887 h -87.2595 l -43.6297,-75.56887 43.6297,-75.56887 87.2595,0 z"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+           inkscape:export-xdpi="65.18187"
+           inkscape:export-ydpi="65.18187" />
+        <g
+           transform="translate(1563.6813,2272.8563)"
+           inkscape:export-ydpi="57.0341"
+           inkscape:export-xdpi="57.0341"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.5.png"
+           id="g5798-0">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect5794-4"
+             width="187.82526"
+             height="187.82526"
+             x="278.17075"
+             y="-1854.7438" />
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="57"
+         inkscape:export-xdpi="57"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+         id="g5822-8-1"
+         transform="matrix(0.26458333,0,0,0.26458333,-1015.5904,-176.34624)">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bebebe;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-9-9-1"
+           sodipodi:sides="6"
+           sodipodi:cx="1935.7646"
+           sodipodi:cy="512.02515"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 2023.0241,512.02515 -43.6297,75.56887 h -87.2595 l -43.6297,-75.56887 43.6297,-75.56887 87.2595,0 z"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+           inkscape:export-xdpi="65.18187"
+           inkscape:export-ydpi="65.18187" />
+        <g
+           transform="translate(1563.6813,2272.8563)"
+           inkscape:export-ydpi="57.0341"
+           inkscape:export-xdpi="57.0341"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.5.png"
+           id="g5798-3-5">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect5794-3-1"
+             width="187.82526"
+             height="187.82526"
+             x="278.17075"
+             y="-1854.7438" />
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="57"
+         inkscape:export-xdpi="57"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+         id="g5822-8-6"
+         transform="matrix(0.26458333,0,0,0.26458333,-975.19189,-107.08031)">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bebebe;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-9-9-8"
+           sodipodi:sides="6"
+           sodipodi:cx="1935.7646"
+           sodipodi:cy="512.02515"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 2023.0241,512.02515 -43.6297,75.56887 h -87.2595 l -43.6297,-75.56887 43.6297,-75.56887 87.2595,0 z"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+           inkscape:export-xdpi="65.18187"
+           inkscape:export-ydpi="65.18187" />
+        <g
+           transform="translate(1563.6813,2272.8563)"
+           inkscape:export-ydpi="57.0341"
+           inkscape:export-xdpi="57.0341"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.5.png"
+           id="g5798-3-0">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect5794-3-9"
+             width="187.82526"
+             height="187.82526"
+             x="278.17075"
+             y="-1854.7438" />
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="57"
+         inkscape:export-xdpi="57"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+         id="g5822-3-0"
+         transform="matrix(0.26458333,0,0,0.26458333,-1055.9127,-13.759778)">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bebebe;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-9-5-0"
+           sodipodi:sides="6"
+           sodipodi:cx="1935.7646"
+           sodipodi:cy="512.02515"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 2023.0241,512.02515 -43.6297,75.56887 h -87.2595 l -43.6297,-75.56887 43.6297,-75.56887 87.2595,0 z"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+           inkscape:export-xdpi="65.18187"
+           inkscape:export-ydpi="65.18187" />
+        <g
+           transform="translate(1563.6813,2272.8563)"
+           inkscape:export-ydpi="57.0341"
+           inkscape:export-xdpi="57.0341"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.5.png"
+           id="g5798-0-3">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect5794-4-3"
+             width="187.82526"
+             height="187.82526"
+             x="278.17075"
+             y="-1854.7438" />
+        </g>
+      </g>
+      <g
+         inkscape:export-ydpi="57"
+         inkscape:export-xdpi="57"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+         id="g5822-3-3"
+         transform="matrix(0.26458333,0,0,0.26458333,-1136.009,-107.08031)">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bebebe;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-9-5-3"
+           sodipodi:sides="6"
+           sodipodi:cx="1935.7646"
+           sodipodi:cy="512.02515"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 2023.0241,512.02515 -43.6297,75.56887 h -87.2595 l -43.6297,-75.56887 43.6297,-75.56887 87.2595,0 z"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+           inkscape:export-xdpi="65.18187"
+           inkscape:export-ydpi="65.18187" />
+        <g
+           transform="translate(1563.6813,2272.8563)"
+           inkscape:export-ydpi="57.0341"
+           inkscape:export-xdpi="57.0341"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.5.png"
+           id="g5798-0-1">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect5794-4-8"
+             width="187.82526"
+             height="187.82526"
+             x="278.17075"
+             y="-1854.7438" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-790.73526,425.01365)"
+         inkscape:export-ydpi="57.244698"
+         inkscape:export-xdpi="57.244698"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.100.png"
+         id="g19818-3-0">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect19722-6-5"
+           width="187.82526"
+           height="187.82526"
+           x="686.88062"
+           y="-1854.7438" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-6-7-8-6"
+           sodipodi:sides="6"
+           sodipodi:cx="780.79321"
+           sodipodi:cy="-1760.8312"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 868.05263,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+           inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.1000.png"
+           inkscape:export-xdpi="53.549999"
+           inkscape:export-ydpi="53.549999" />
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-655.93535,610.22198)"
+         inkscape:export-ydpi="57.244698"
+         inkscape:export-xdpi="57.244698"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.20.png"
+         id="g19814-8-2">
+        <rect
+           y="-1854.7438"
+           x="482.52573"
+           height="187.82526"
+           width="187.82526"
+           id="rect19720-0-9"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:#464646;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-3-3-7-7"
+           sodipodi:sides="6"
+           sodipodi:cx="576.43835"
+           sodipodi:cy="-1760.8312"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 663.69777,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+           inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.100.png"
+           inkscape:export-xdpi="53.549999"
+           inkscape:export-ydpi="53.549999" />
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-602.3956,656.63982)"
+         inkscape:export-ydpi="57.0341"
+         inkscape:export-xdpi="57.0341"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.5.png"
+         id="g19810-6-7">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect19718-9-9"
+           width="187.82526"
+           height="187.82526"
+           x="278.17075"
+           y="-1854.7438" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#828282;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-66-5-8-4"
+           sodipodi:sides="6"
+           sodipodi:cx="372.08337"
+           sodipodi:cy="-1760.8312"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 459.34279,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+           inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.20.png"
+           inkscape:export-xdpi="53.549999"
+           inkscape:export-ydpi="53.549999" />
+      </g>
+      <g
+         inkscape:export-ydpi="57"
+         inkscape:export-xdpi="57"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+         id="g5822-3-0-2"
+         transform="matrix(0.26458333,0,0,0.26458333,-975.19189,78.430976)">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#bebebe;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-9-5-0-6"
+           sodipodi:sides="6"
+           sodipodi:cx="1935.7646"
+           sodipodi:cy="512.02515"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 2023.0241,512.02515 -43.6297,75.56887 h -87.2595 l -43.6297,-75.56887 43.6297,-75.56887 87.2595,0 z"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.1.png"
+           inkscape:export-xdpi="65.18187"
+           inkscape:export-ydpi="65.18187" />
+        <g
+           transform="translate(1563.6813,2272.8563)"
+           inkscape:export-ydpi="57.0341"
+           inkscape:export-xdpi="57.0341"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.5.png"
+           id="g5798-0-3-3">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect5794-4-3-4"
+             width="187.82526"
+             height="187.82526"
+             x="278.17075"
+             y="-1854.7438" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-561.46789,447.7124)"
+         inkscape:export-ydpi="57.0341"
+         inkscape:export-xdpi="57.0341"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.5.png"
+         id="g19810-3-5">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect19718-8-5"
+           width="187.82526"
+           height="187.82526"
+           x="278.17075"
+           y="-1854.7438" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#828282;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-66-5-9-1"
+           sodipodi:sides="6"
+           sodipodi:cx="372.08337"
+           sodipodi:cy="-1760.8312"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 459.34279,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+           inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.20.png"
+           inkscape:export-xdpi="53.549999"
+           inkscape:export-ydpi="53.549999" />
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-521.50337,471.31988)"
+         inkscape:export-ydpi="57.0341"
+         inkscape:export-xdpi="57.0341"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.5.png"
+         id="g19810-3-0">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect19718-8-7"
+           width="187.82526"
+           height="187.82526"
+           x="278.17075"
+           y="-1854.7438" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#828282;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-66-5-9-5"
+           sodipodi:sides="6"
+           sodipodi:cx="372.08337"
+           sodipodi:cy="-1760.8312"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 459.34279,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+           inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.20.png"
+           inkscape:export-xdpi="53.549999"
+           inkscape:export-ydpi="53.549999" />
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-629.64118,425.01365)"
+         inkscape:export-ydpi="57.244698"
+         inkscape:export-xdpi="57.244698"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.100.png"
+         id="g19818-7-5">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect19722-7-7"
+           width="187.82526"
+           height="187.82526"
+           x="686.88062"
+           y="-1854.7438" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-6-7-7-8"
+           sodipodi:sides="6"
+           sodipodi:cx="780.79321"
+           sodipodi:cy="-1760.8312"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 868.05263,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+           inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.1000.png"
+           inkscape:export-xdpi="53.549999"
+           inkscape:export-ydpi="53.549999" />
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,-629.64118,563.5202)"
+         inkscape:export-ydpi="57.244698"
+         inkscape:export-xdpi="57.244698"
+         inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Objects/Item.Hexagon.100.png"
+         id="g19818-7-5-9">
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect19722-7-7-8"
+           width="187.82526"
+           height="187.82526"
+           x="686.88062"
+           y="-1854.7438" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:14;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path3340-6-7-7-8-8"
+           sodipodi:sides="6"
+           sodipodi:cx="780.79321"
+           sodipodi:cy="-1760.8312"
+           sodipodi:r1="87.259415"
+           sodipodi:r2="75.568886"
+           sodipodi:arg1="0"
+           sodipodi:arg2="0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 868.05263,-1760.8312 -43.62971,75.5689 h -87.25941 l -43.62971,-75.5689 43.62971,-75.5688 h 87.25941 z"
+           inkscape:export-filename="F:\Unity\HexaSnap - Unity Project\designs\Objects\Item.Hexagon.1000.png"
+           inkscape:export-xdpi="53.549999"
+           inkscape:export-ydpi="53.549999" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot958"
+       style="font-style:normal;font-weight:normal;font-size:400px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-218.82017,-476.05529)"><flowRegion
+         id="flowRegion960"
+         style="font-size:400px;text-align:center;text-anchor:middle"><rect
+           id="rect962"
+           width="3314.5632"
+           height="1069.499"
+           x="-928.07764"
+           y="-1511.4531"
+           style="font-size:400px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara964"
+         style="fill:#c30000;fill-opacity:1">Twitter (1500x500)</flowPara></flowRoot>    <use
+       x="0"
+       y="0"
+       xlink:href="#use5874-0"
+       id="use4802"
+       transform="matrix(1.0930903,0,0,1.4395274,2091.238,-29.669609)"
+       width="100%"
+       height="100%"
+       style="fill:#ff0000"
+       inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Stores/FacebookPageBanner.png"
+       inkscape:export-xdpi="35"
+       inkscape:export-ydpi="35" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g2449-3"
+       id="use4804"
+       transform="matrix(1.1644694,0,0,1.1644694,2096.5371,79.589252)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g10328"
+       id="use4806"
+       transform="matrix(1.0226524,0,0,1.0226524,2067.0404,-2.8118687)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g10385"
+       id="use4808"
+       transform="matrix(1.0226524,0,0,1.0226524,2067.0404,-2.8118687)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#flowRoot10404"
+       id="use4810"
+       transform="matrix(1.0226524,0,0,1.0226524,2067.0404,-2.8118687)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g10961"
+       id="use4812"
+       transform="matrix(0.92521166,0,0,0.92521166,2061.6521,18.831352)"
+       width="100%"
+       height="100%" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot958-0"
+       style="font-style:normal;font-weight:normal;font-size:400px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,1799.5104,-460.71717)"><flowRegion
+         id="flowRegion960-1"
+         style="font-size:400px;text-align:center;text-anchor:middle"><rect
+           id="rect962-5"
+           width="2757.7166"
+           height="1051.8214"
+           x="-928.07764"
+           y="-1511.4531"
+           style="font-size:400px;text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara964-1"
+         style="fill:#c30000;fill-opacity:1">Facebook</flowPara><flowPara
+         style="fill:#c30000;fill-opacity:1"
+         id="flowPara4838">(1640x720)</flowPara></flowRoot>    <g
+       id="g3701">
+      <g
+         inkscape:export-ydpi="35.880001"
+         inkscape:export-xdpi="35.880001"
+         inkscape:export-filename="/Users/nightmare/Downloads/speech-bubble.jpg.png"
+         style="stroke-width:0.27712581"
+         id="use5874-0-1"
+         transform="matrix(0.25321338,0,0,0.25321335,609.06492,-1248.1063)">
+        <rect
+           style="opacity:1;fill:url(#linearGradient3677);fill-opacity:1;stroke:none;stroke-width:2.95543146;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect9110-8"
+           width="1468.5459"
+           height="1468.5459"
+           x="-1836.2296"
+           y="10330.67"
+           ry="0"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/AppIcon/AppIcon_1024.png"
+           inkscape:export-xdpi="9"
+           inkscape:export-ydpi="9" />
+        <path
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:64.67935181;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           mask="none"
+           d="m -1836.2305,10278.309 v 673.134 h 219.377 l 205.4121,-355.785 -183.2227,-317.349 z"
+           id="path9112-8"
+           transform="translate(0,52.362293)"
+           inkscape:connector-curvature="0" />
+        <path
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:64.67935181;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m -1637.0742,10278.309 183.2226,317.349 -184.207,319.055 h -198.1719 v 73.457 h 219.377 a 36.732082,36.732082 0 0 0 31.8086,-18.361 l 205.4121,-355.786 a 36.732082,36.732082 0 0 0 0,-36.73 l -172.6192,-298.984 z"
+           id="path9114-3"
+           transform="translate(0,52.362293)"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:64.67785645;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path9116-5"
+           sodipodi:sides="6"
+           sodipodi:cx="-1101.9565"
+           sodipodi:cy="11064.943"
+           sodipodi:r1="410.82379"
+           sodipodi:r2="355.78384"
+           sodipodi:arg1="-1.0471976"
+           sodipodi:arg2="-0.52359878"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m -896.54466,10709.16 205.41191,355.783 -205.41188,355.784 -410.82377,0 -205.4119,-355.784 205.4118,-355.783 z" />
+      </g>
+      <path
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.69471455;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 399.41383,1548.0648 -163.60435,-8.8038 -22.81939,-53.9555 31.96925,-47.5208 152.37971,-7.9809 33.2971,58.694 z"
+         id="path5588-9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="/Users/nightmare/Downloads/speech-bubble.jpg.png"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path5592-9"
+         d="m 310.65951,1539.3299 18.59358,25.8923 3.30275,-25.2957"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.69471455;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:export-filename="/Users/nightmare/Downloads/speech-bubble.jpg.png"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35" />
+      <flowRoot
+         transform="matrix(0.15596004,0,0,0.15596004,244.5321,1257.4273)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Komika Display';-inkscape-font-specification:'Komika Display';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot10404-4"
+         xml:space="preserve"
+         inkscape:export-filename="/Users/nightmare/Downloads/speech-bubble.jpg.png"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Komika Display';-inkscape-font-specification:'Komika Display'"
+           id="flowRegion10406-6"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Komika Display';-inkscape-font-specification:'Komika Display'"
+             y="1250.6827"
+             x="-39.774757"
+             height="539.16895"
+             width="1069.499"
+             id="rect10408-9" /></flowRegion><flowPara
+           style="font-size:133.33332825px;text-align:center;text-anchor:middle"
+           id="flowPara10410-7">Please don't tap my speech bubbles</flowPara></flowRoot>      <g
+         transform="matrix(0.85364427,0.11550576,-0.11550576,0.85364427,350.79338,221.76081)"
+         id="g3640"
+         inkscape:export-filename="/Users/nightmare/Downloads/speech-bubble.jpg.png"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.83752298;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path1199-7"
+           sodipodi:sides="6"
+           sodipodi:cx="201.70497"
+           sodipodi:cy="1621.0406"
+           sodipodi:r1="59.337891"
+           sodipodi:r2="51.388115"
+           sodipodi:arg1="1.0471976"
+           sodipodi:arg2="1.5707963"
+           inkscape:flatsided="true"
+           inkscape:rounded="0.1"
+           inkscape:randomized="0"
+           d="m 231.37391,1672.4288 c -5.13881,2.9669 -54.19907,2.9669 -59.33789,0 -5.13881,-2.9669 -29.66894,-45.4544 -29.66894,-51.3882 0,-5.9337 24.53014,-48.4212 29.66895,-51.3881 5.13881,-2.9669 54.19908,-2.9669 59.33789,0 5.13881,2.9669 29.66894,45.4544 29.66894,51.3882 0,5.9337 -24.53013,48.4212 -29.66895,51.3881 z"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Character/Face.Hexagon.png"
+           inkscape:export-xdpi="53"
+           inkscape:export-ydpi="53" />
+        <g
+           id="g1334"
+           transform="matrix(0.26458333,0,0,0.26458333,652.48485,1902.51)"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Character/Face.SAD.png"
+           inkscape:export-xdpi="53"
+           inkscape:export-ydpi="53">
+          <path
+             sodipodi:nodetypes="sssccs"
+             inkscape:connector-curvature="0"
+             id="path2130-7"
+             d="m -1828.4077,-1095.1602 c 0,33.5705 22.8445,60.7847 51.0246,60.7847 28.1801,0 51.0245,-27.2143 51.0245,-60.7847 0,-16.7852 -5.7111,-31.9814 -14.9447,-42.9812 -23.6007,14.9862 -56.5043,21.7465 -83.0946,19.321 -2.582,7.2722 -4.0098,15.2676 -4.0098,23.6602 z"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -1584.3586,-1098.1602 c 0,33.5705 -22.8445,60.7847 -51.0246,60.7847 -28.1801,0 -51.0245,-27.2143 -51.0245,-60.7847 0,-16.7852 5.7111,-31.9814 14.9447,-42.9812 23.6007,14.9862 56.5043,21.7465 83.0946,19.321 2.582,7.2722 4.0098,15.2676 4.0098,23.6602 z"
+             id="path2132-9"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="sssccs" />
+          <rect
+             y="-1248.4954"
+             x="-1910.4098"
+             height="413.34958"
+             width="413.34958"
+             id="rect2114-0"
+             style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:154.98553467;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <ellipse
+             ry="26.239481"
+             rx="19.307758"
+             cy="-1086.0585"
+             cx="-1773.5504"
+             id="ellipse2120-3"
+             style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.89446831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <ellipse
+             style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.89446831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="ellipse2124-9"
+             cx="-1639.3717"
+             cy="-1086.473"
+             rx="19.307758"
+             ry="26.239481" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             inkscape:connector-curvature="0"
+             id="path1308"
+             d="m -1786.9944,-962.52205 c -1.8024,-5.0557 31.7881,-22.6504 40.4911,-19.74053 7.2446,7.80626 1.4314,17.40334 2.6994,24.93538 26.5623,-5.32174 44.5369,-19.57779 64.7856,-24.93538 24.055,-4.08167 -10.4064,26.55958 5.3988,28.05231 16.9624,-4.23324 26.5142,-13.10349 40.4909,-18.70153 3.9238,-1.40883 5.5107,10.07876 5.3989,11.42872"
+             style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+      <flowRoot
+         transform="matrix(0.16255965,0,0,0.16255965,670.0037,1014.9434)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Komika Display';-inkscape-font-specification:'Komika Display';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.95940191"
+         id="flowRoot10404-4-2"
+         xml:space="preserve"
+         inkscape:export-filename="/Users/nightmare/Downloads/speech-bubble.jpg.png"
+         inkscape:export-xdpi="35"
+         inkscape:export-ydpi="35"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Komika Display';-inkscape-font-specification:'Komika Display';stroke-width:0.95940191"
+           id="flowRegion10406-6-5"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Komika Display';-inkscape-font-specification:'Komika Display';stroke-width:0.95940191"
+             y="1250.6827"
+             x="-39.774757"
+             height="898.4765"
+             width="1523.6951"
+             id="rect10408-9-6" /></flowRegion><flowPara
+           style="font-size:133.33332825px;text-align:center;text-anchor:middle;stroke-width:0.95940191"
+           id="flowPara10410-7-3">Si tu aimes Hexa Snap, lâche un petit like sur les réseaux sociaux</flowPara></flowRoot>      <g
+         id="g2172"
+         inkscape:export-filename="/Users/nightmare/Desktop/Website Local Hexa Snap/src/public/images/character-social-networks.png"
+         inkscape:export-xdpi="53"
+         inkscape:export-ydpi="53">
+        <g
+           transform="rotate(-18.370034,740.30645,1530.0026)"
+           id="g2140">
+          <path
+             sodipodi:type="star"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.83752298;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="path1199-3"
+             sodipodi:sides="6"
+             sodipodi:cx="1016.1253"
+             sodipodi:cy="1707.1808"
+             sodipodi:r1="59.337891"
+             sodipodi:r2="51.388115"
+             sodipodi:arg1="1.0471976"
+             sodipodi:arg2="1.5707963"
+             inkscape:flatsided="true"
+             inkscape:rounded="0.1"
+             inkscape:randomized="0"
+             d="m 1045.7942,1758.5689 c -5.1388,2.9669 -54.19903,2.9669 -59.33784,0 -5.13881,-2.9669 -29.66895,-45.4543 -29.66895,-51.3881 0,-5.9338 24.53014,-48.4212 29.66895,-51.3881 5.13881,-2.9669 54.19904,-2.9669 59.33794,0 5.1388,2.9669 29.6689,45.4543 29.6689,51.3881 0,5.9338 -24.5301,48.4212 -29.669,51.3881 z"
+             inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Character/Face.Hexagon.png"
+             inkscape:export-xdpi="53"
+             inkscape:export-ydpi="53" />
+          <g
+             id="g2093-0"
+             transform="matrix(0.26458333,0,0,0.26458333,1576.2706,1764.0983)"
+             inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Character/Face.SMILE.png"
+             inkscape:export-xdpi="53"
+             inkscape:export-ydpi="53">
+            <rect
+               style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:154.98553467;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect1570-8"
+               width="413.34958"
+               height="413.34958"
+               x="-2323.7595"
+               y="-421.79617" />
+            <ellipse
+               ry="60.784695"
+               rx="51.024544"
+               cy="-259.77359"
+               cx="-2191.5574"
+               id="ellipse1444-4"
+               style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <path
+               style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -2051.1559,-160.28052 c 1.8823,88.8292 -139.7269,90.5853 -140.4741,1.4142 45.839,-24.6896 97.5463,-23.74 140.4741,-1.4142 z"
+               id="path1446-0"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccc" />
+            <ellipse
+               style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.89446831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="ellipse1448-4"
+               cx="-2186.9001"
+               cy="-259.35928"
+               rx="19.307758"
+               ry="26.239481" />
+            <ellipse
+               style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="ellipse1450-6"
+               cx="-2048.7214"
+               cy="-262.60208"
+               rx="51.024544"
+               ry="60.784695" />
+            <ellipse
+               ry="26.239481"
+               rx="19.307758"
+               cy="-259.77383"
+               cx="-2052.7214"
+               id="ellipse1452-4"
+               style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.89446831;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+            <path
+               sodipodi:nodetypes="ccccc"
+               inkscape:connector-curvature="0"
+               id="path1454-6"
+               d="m -2051.1559,-160.28052 c 0.4706,22.2073 -8.0271,38.9725 -21.05,50.2355 -25.9934,-42.6063 -73.0105,-37.3504 -96.8951,1.0684 -13.3516,-10.9871 -22.3422,-27.5969 -22.529,-49.8897 45.2595,-23.2194 99.4799,-22.2644 140.4741,-1.4142 z"
+               style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          </g>
+        </g>
+        <g
+           inkscape:export-ydpi="53"
+           inkscape:export-xdpi="53"
+           inkscape:export-filename="/Users/nightmare/git/HexaSnap/designs/Character/Bubble.MEDIUM.0.png"
+           id="g5695"
+           transform="matrix(0.26458333,0,0,0.26458333,-76.67551,1377.9117)">
+          <rect
+             style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:93.62400818;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect5615"
+             width="1086.39"
+             height="687.81409"
+             x="2796.0002"
+             y="268.59793" />
+          <path
+             sodipodi:nodetypes="ccccccc"
+             inkscape:connector-curvature="0"
+             id="path4956"
+             d="m 3791.603,915.50039 -874.9777,-10.8283 -101.2807,-311.7542 85.2808,-290.0384 834.2082,32.7695 118.7364,198.5582 z"
+             style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 919.06915,1584.7713 53.83432,2.3762 -42.20903,-24.1773"
+           id="path5685"
+           inkscape:connector-curvature="0" />
+      </g>
+      <flowRoot
+         inkscape:export-ydpi="35"
+         inkscape:export-xdpi="35"
+         inkscape:export-filename="/Users/nightmare/Downloads/speech-bubble.jpg.png"
+         xml:space="preserve"
+         id="flowRoot2148"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Komika Display';-inkscape-font-specification:'Komika Display';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.95940191"
+         transform="matrix(0.16255965,0,0,0.16255965,970.51487,1016.1127)"><flowRegion
+           id="flowRegion2144"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Komika Display';-inkscape-font-specification:'Komika Display';stroke-width:0.95940191"><rect
+             id="rect2142"
+             width="1502.1157"
+             height="891.28345"
+             x="-39.774757"
+             y="1250.6827"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Komika Display';-inkscape-font-specification:'Komika Display';stroke-width:0.95940191" /></flowRegion><flowPara
+           id="flowPara2146"
+           style="font-size:133.33332825px;text-align:center;text-anchor:middle;stroke-width:0.95940191">If you like Hexa Snap, you can drop a like on social medias</flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2150"
+         style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;text-anchor:end;text-align:end"><flowRegion
+           id="flowRegion2152"><rect
+             id="rect2154"
+             width="2249.4834"
+             height="1392.1165"
+             x="2192.031"
+             y="5210.481" /></flowRegion><flowPara
+           id="flowPara2156"></flowPara></flowRoot>    </g>
+  </g>
+</svg>

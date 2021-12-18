@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="<%= req.getLocale() %>">
+
+<head>
+    <meta name="robots" content="noindex,nofollow,noarchive,nocache" />
+
+    <title>Hexa Snap - 404</title>
+
+    <%- include('part_meta') -%>
+
+    <%- include('part_ga_tracker_init') -%>
+</head>
+
+<body class="flex-v">
+
+    <div class="flex-v text-box">
+
+        <%- include('part_header') -%>
+
+        <br />
+        <h2><%- tr('404_title') %></h2>
+        <br />
+        <a href="/"><%- tr('404_home') %></a>
+
+    </div>
+
+    <%- include('part_footer') -%>
+
+</body>
+
+</html>

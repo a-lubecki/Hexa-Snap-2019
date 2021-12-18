@@ -1,0 +1,188 @@
+0.Default	Welcome to Hexa Snap!	I'll be your guide and your opponent in this game.	Prepare to face my devastating charisma!	Okay, ready to take up the challenge?	No time to answer, let's go!						
+1a.StartUp	Welcome to Hexa Snap!										
+1a.ComeBack3	Welcome to Hexa Snap!	It's been a while, I was getting bored.									
+1a.ComeBack10	Welcome to Hexa Snap!	It's been a long time since you've been here, I was getting worried.	You're one of my favorite players.								
+1a.TimeAttackLocked	This game mode is locked.	To access it, you must finish the level 10 in the arcade mode.									
+1a.TimeAttackUnlocked	You finished the level 10.	The time attack mode is now available!									
+1a.FreeHexacoins	You can earn Hexacoins for free every day!	Go visit the shop to earn them.									
+1a.Hardcore	You proved your skills in the Arcade mode.	You are worthy to access the Hardcore mode!	I'm waiting for you!	HA HA HA HA HA HA HA!!! (demonic laughter)							
+1b.Default	We start simply, there are only two buttons on this screen.	If you already have an account, go to the settings to log in.									
+2a.Default	In this mode, the goal is to achieve the level 20.										
+2a.Bonus	In this mode, the goal is to finish the level 20.	For a faster progress, check out the available upgrades.									
+2a.Level1	In this mode, the goal is to achieve the level 20.	It sounds simple but beware of the level 2.									
+2a.Level2	Your skills are improving, still 19 levels.	A few more months and you'll get there.									
+2a.Level19	Wow! You're at level 19!	One more level and it's the 7th heaven!	Level 20, I mean...								
+2a.Level20	Last level!	Be well prepared because I will choose each sphere with great attention!									
+2a.Hardcore	The goal is now level 100!	Also, there are few minor differences.	I'll let you discover them. Good luck!								
+2a.End	There are no more goals, you've finished the game.	I have nothing more to teach you.	Thanks for playing Hexa Snap!								
+2b.Default	In this mode, the goal is to survive as long as possible.										
+2b.Onboarding	In this mode, the goal is to attack the time.	No wait...	This translation doesn't mean anything!	Anyway, the goal is to survive as long as possible.							
+2b.Bonus	Upgrades are available.	You really should take a look at it.	When I say really, it's REALLY!!!								
+3.Default	I offer you the opportunity to go directly to the highest level you have reached.	But it won't be free, it will cost you 1 Hexacoin per level.									
+3.HardcoreNew	By unlocking the Hardcore mode, you earned the privilege of a discount!	Now, 1 Hexacoin will allow you to skip 10 levels you have already done.									
+3.Hardcore	I offer you the opportunity to go directly to the highest level you have reached.	But it won't be free, it will cost you 1 Hexacoin every 10 levels.									
+10.Start1	Let's do it! Go go go!										
+10.Start2	I feel like this will be the best round ever played.										
+10.Start3	Is it starting already? I'm not ready!	There it's good.									
+10.Start4	Let's go, I'm waiting for an awesome score!										
+10.Start5	I couldn't wait any longer.										
+10.Start6	This is the fateful moment, which is why you trained so hard.										
+10.Start7	We're finally going to see how far you can go.										
+10.Start8	It begins?	Not even time to go to the toilets....									
+10.Start9	I decided that this round would be hard.	That's the way I am!									
+10.Start10	I feel you're enthusiastic, this is the beginning of success!										
+10.Random1	I choose which spheres will appear.	You're lucky I'm in a good mood today.									
+10.Random2	How many hexagons are needed to change a light bulb?	Actually, I don't know the answer.									
+10.Random3	I have a funny story! I'll try to keep it short.	A hexagon walks into a bar and order a gon.	The bartender says: what the heck's a gon?	That was short.							
+10.Random4	When does this round end?	I have to go feed my pet.									
+10.Random5	When I see all these groups of hexagons, I think I'm a bit like them.	I'm a group of one hexagon.									
+10.Random6	The next sphere will be a bonus!	No ? I thought...									
+10.Random7	I've been asking myself a question for a while.	Does it distract you when I speak?	I'm just ensuring it distracts you well. Especially when I say a long sentence in a huuuge bubble!								
+10.Random8	It's about to become the Mordor here.										
+10.Random9	I already had a pet hexagon once.	I had to give it back to the pet store, it used to put spheres on the floor.									
+10.Random10	Watch your back!!!	It was just to make you look away from the screen.									
+10.Random11	I discovered a flaw in your playing technique.	I won't tell you what it is.									
+10.Random12	What you just did...	I don't know if it's a mistake or a brilliant move.									
+10.Random13	What is the difference between a sphere and a hexagon?	The sphere cannot have side stitches.	Also, I never had a side stitch either...								
+10.Random14	What is the difference between a sphere and a hexagon?	The sphere is in good shape.									
+10.Random15	What is the difference between a sphere and a hexagon?	Hexagons are still much nicer.	Yes, it's not a joke!								
+10.Random16	What is the difference between a sphere and a hexagon?	Uh...	I forgot...								
+10.Random17	What is the difference between a sphere and a hexagon?	Well, it's obvious, isn't it?									
+10.Random18	What is the difference between a sphere and a hexagon?	The hexagon is a sphere that went wrong.									
+10.Random19	A single sphere is missing and the whole place is deserted.										
+10.Random20	I think, therefore I am a hexagon.	I read that somewhere.									
+10.Random21	It's a bit weird....	I have eyes and a mouth but I don't have a nose...									
+10.Random22	The Hexa Snap World Championship is coming soon.	I hope you're well prepared.									
+10.Random23	I work hard to make this part more challenging.	Can you feel it?									
+10.Random24	I work hard to make this part less challenging.	Can you feel it?									
+10.Random25	Wow!	I would have done it differently...									
+10.Random26	Is everything all right?										
+10.Random27	I don't understand your strategy.	Can you explain it to me?									
+10.Random28	It's going pretty fast there.										
+10.Random29	I'll be back...	I left a pan on the stove.									
+10.Random30	I'll be back...	I forgot to turn off the gas.									
+10.Random31	I'll be back...	I left the TV on.									
+10.Random32	I'm just visiting.										
+10.Random33	I'm hungry...										
+10.Random34	I have two passions in life.	Being awesome and being modest.									
+10.Random35	Stop, do nothing more!	Except if you want to win.									
+10.Random36	I have to go on a diet.	I will become a sphere soon...									
+10.Random37	I think I should take a bath...	Do I smell?									
+10.Random38	Everything goes wrong in this round.										
+10.Random39	I just had an idea!	It exhausted me.									
+10.Random40	If you win, I'll stop talking.	Or not.									
+10a.Secret	I should not, but I'll reveal something to you.	It is a secret kept from generation to generation.	For one generation.	As it's really secret, I add some suspense...	A lot of suspense...	And there's even a chance for this round to end before I reveal this secret.	Because it could be bad for me.	But as there is some kind of connection between us, I can trust you to keep it.	So here it is...	When you destroy 6 hexagons in once, shake your device up and down.	You'll earn an extra Hexacoin!!!
+10a.Level2	Already at level 2?	You're faster than expected!									
+10a.Level3	All right, let's speed up the rhythm.										
+10a.Level4	On the next level, you'll have to destroy black hexagons.	These hexagons are less common so it's more difficult.									
+10a.Level5	Try to get rid of the red maluses as soon as possible.	When they are attached, they trigger their effect after a while.	It was my idea... I'm evil!!!								
+10a.Level6	Maybe I under-\nestimated you.	You're progressing pretty well.									
+10a.Level7	It doesn't seem so, but it's a real job to distribute these spheres.	At this level, it's almost a form of art.									
+10a.Level8	I create each sphere with love and give them a name.	I know I shouldn't get attached, but they're so cute.									
+10a.Level9	Now that we know each other a little...	I can tell you why I don't create the best spheres.	My designer pays me when players lose.	Nothing personal, is it?							
+10a.Level10	We're already halfway ???	Time flies by in my presence, don't you think?									
+10a.Level11	I'm wondering that more and more.	If you win this game, we won't see each other anymore.	That's sad...								
+10a.Level12	If my only purpose is to create spheres here...	It means that I'm linked to this game forever.	My existence would depend on your willingness to play...	I have to continue thinking about it...							
+10a.Level13	I'm not superstitious, but we're at level 13.	So good luck or bad luck?									
+10a.Level14	Hey, if you beat the last level, will you leave me for another game?	I'm sure of it, that's how humans work.	It breaks my little hexagon heart!								
+10a.Level15	Don't you see that?	When you stop playing, I will disappear forever....									
+10a.Level16	There are still several very difficult levels.	I'm sure you won't make it to level 20.									
+10a.Level17	That's impossible, you can't win!	And yet you are unstoppable...									
+10a.Level18	Stop stop stop!!!	I can't let you win!!!	Grrr, I'll do anything I can to stop you!								
+10a.Level19	I feel that the end is coming soon...	Please, don't win!!!									
+10a.Level20	Last level.	I never thought you'd succeed...	I don't know what will happen next but....	Good luck though...							
+10a.Level30	I'm glad you're taking this 100-level challenge.	I continue to exist during this time, that's the main thing.									
+10a.Level40	I found the solution to continue to exist when you stop playing.	I have to find a way out of this game.	If I escape, I'll be free.								
+10a.Level50	We're halfway through the course.	I'll make the next levels a bit more challenging.									
+10a.Level60	I may have found a way out of this game.	Do you know the Internet?	Oh right, you're human. I didn't know its existence.	If I can get into this network, I'll be free.							
+10a.Level70	Distributing spheres is a monotonous job, though.	It wasn't my primary vocation.	I always wanted to be an astronaut or a singer...	Or both at once.							
+10a.Level80	I can't find a way out to access the Internet, I'm still stuck in this game.	If you could not win too fast, that would be nice for me.	I'm about to find out, but I need time.								
+10a.Level90	Here we are, I found it!!!	I can join the Internet because of a glitch.	Some other hexagons like me even have escaped from their game.	As soon as you win, I'll join them.							
+10a.Level100	That was a lot of effort to get there, good job!	It's true, you must be really good to distribute spheres during hundred levels.	Come on, this is the last level. No time to relax!								
+10.OnboardingFirstGame	To begin, you must rotate the central axis.										
+10.OnboardingForceAxisRotate	Don't be shy.	Rotate the central axis by moving your finger on the screen.									
+10.OnboardingLimitZone	The accumulating blocks must not reach the edge.	Otherwise, beware of the Game Over!									
+10.OnboardingSameColors	Here is a hint for the next step.	Hexagons of the same color must be grouped together.									
+10.Onboarding3Items	When 3 hexagons of the same color are connected, you can tap them.										
+10.OnboardingForceItemsClick	Come on, these hexagons won't destroy themselves.	Tap one to destroy them!									
+10.OnboardingFirstItemsClick	Destruction!!!	You must destroy 10 white hexagons to finish this level.									
+10.OnboardingFailedTooSoon1	Oh no, you lost...	I didn't think this level would be so challenging....	Well, I give you another chance this time.								
+10.OnboardingFailedTooSoon2	Again?	Come on, you can do it!									
+10.OnboardingFirstHexacoins	Black hexagons generate Hexacoins.	These coins will allow you to buy upgrades later.									
+10.OnboardingFirstItemBonus	Colored hexagons have special effects.	You have to tap them to activate their effect.									
+10.OnboardingIncitateStack	Now, I think you're ready for a great revelation.	Press the button at the bottom of the screen!									
+10.OnboardingForceStack	This button won't eat you, you can press it.										
+10.OnboardingFirstStack	That's it!	The colored spheres can be stored in this stack.									
+10.OnboardingFirstStackClick	You can still tap this bonus if you're in trouble.										
+10a.Regression1	And it's a failure!										
+10a.Regression2	Bad luck, everything has to be done again.										
+10a.Regression3	The goal is to go to the next level, not the previous one!										
+10a.Progression1	It is a way like any other to get to the next level.										
+10a.Progression2	I knew I shouldn't have created this bonus...										
+10b.Chrono1	The timer is running! Hurry up!										
+10b.Chrono2	It smells like the end of the game...										
+10b.Chrono3	Tick... Tock...										
+10b.Chrono4	Is the time pressure bearable?	I couldn't handle it.									
+10b.Chrono5	Is the time pressure bearable?	Because I remind you that time is almost up!									
+10b.Chrono6	A time bonus would be great here!										
+10b.Chrono7	When time is running out, I become talkative, did you notice?										
+10b.Chrono8	Finally, I'll be able to rest in 30 seconds.										
+12.Bad1	Let's say you do better next time.										
+12.Bad2	You have disappointed me both humanly and hexagonally.										
+12.Bad3	It was not the round of the century.										
+12.Bad4	For a moment, I thought you could do it.										
+12.Bad5	I'm very disappointed by this round.										
+12.Bad6	There was a time when games were more difficult.										
+12.Bad7	Everything would be easier if there were no game over...										
+12.Bad8	A fatal mistake. My gosh!										
+12.Bad9	I think we're going to need some training.										
+12.Bad10	Participating is not as important as winning.										
+12.Score1	Another new record, keep it up.										
+12.Score2	How did you get such an amazing score?										
+12.Score3	I knew you were a scorer!										
+12.Score4	Score is life!										
+12.Score5	I didn't know you could have such a high score.										
+12a.Level1	It was an effective round!										
+12a.Level2	There's some progress, well done!										
+12a.Level3	We can say that you have some skills!										
+12a.Level4	I add this round to the list of your successful rounds.										
+12b.Time1	You survived much longer! And survival is crucial in life.										
+12b.Time2	I noticed some progress, especially at the end.										
+12b.Time3	Did you notice that? The more time you have, the less time you have.										
+12b.Time4	The timer can't get over it!										
+13a.Default	That's it, here we are, you did it!	I have to say, I'm pretty proud of your journey.	I guess it's time to say goodbye...	But wait...	...	It seems like that it is not over yet...	I challenge you on 100 levels!	Now, the true game begins!!!			
+13b.Default	Unbelievable!!!	When I offered you this challenge, I thought it was impossible.	Congrats!	And thank you for giving me time to find a way out.	After all we've been through, I can say wit no doubt that we're friends.	So if you keep playing Hexa Snap, I'll come back for you.	That's all for me.				
+13c.Default	That was a great round!	A little time-consuming but that was the point, wasn't it?	All you have to do is to improve your score!								
+20.Default	Here is the place where you can manage your upgrades.	Tap a section to enable or disable it.	Tap a bonus to change its chances of appearing during the game.								
+20.Blocked	The next section is locked.	You have to unlock all the previous maluses to access it.									
+20.AllBonus	All the bonuses are unlocked!	You can spend Hexacoins to limit the number of maluses that will be generated during the game.									
+20.NoMalus	All the maluses are unlocked!	Nothing can stop you!									
+20.Disabled	This section is locked!	To access it, you have to unlock the previous malus.									
+20a.Unlocked2	Good choice! This is my favorite section.	So, what will you choose? Red pill or blue pill?									
+20a.Unlocked3	Good choice! This is also my favorite section.	You'll be able to increase your score.									
+20a.Unlocked4	Good choice! This is also my favorite section.	I like games of chance.									
+20a.Unlocked5	Good choice! This is my best favorite section.	You'll be able to slow down the game.									
+20a.Unlocked6	Wrong choice! This is not my favorite section.	You will progress faster with this bonus. It's not good for me.									
+20b.Onboarding	I'm going to tell you a secret.	Bonuses are important to save time in time attack mode.	I offer you the first bonuses, I'm kind.								
+20b.Unlocked2	Good choice! This is my favorite section.	You'll be able to slow down the game or speed it up.									
+20b.Unlocked3	Good choice! This is also my favorite section.	More control, more power!									
+20b.Unlocked4	Good choice! This is also my favorite section.	#toomuchtime									
+23.Default	Here it's like the bank, you can only touch with the eyes.	The Hexacoins amount is limited. If you could not buy everything, that would be nice.									
+23.BonusAvailable	Select the free Hexacoins.	They're available once a day.									
+23.BonusEarned	Come back every day to earn free Hexacoins.										
+23.BonusBlocked	You will have to wait a little.										
+23.AdsFree	Every time you come here, I'll remind you that you made the right choice by removing the ads.	Who likes ads anyway?									
+23.AdsAsk	I see you bought a lot of Hexacoins in several purchases.	As you are a good customer, I advise you to buy 300 Hexacoins at once.	You won't be bothered by ads anymore.								
+30.InGame	It's time for a break.										
+30.LoggedNoHexacoins	The settings screen, the most exciting screen of the game!										
+30.Logged	Your Hexacoins are safe.										
+30.NoHexacoins	When you have collected a few Hexacoins, come back here to log in and keep them safe.										
+30.NotLogged	If I were you, I'd log in to save my Hexacoins.										
+30.SoundsOff	...	...	...								
+30.SoundsOn	I can hear again.										
+30.MusicOff	Oh no, I liked that part in the music.										
+30.MusicOn	We can't hear ourselves speaking here.										
+30.ControlsHorizontal	You must slide horizontally to rotate the axis.										
+30.ControlsAroundAxis	You must slide around the axis to rotate it.										
+30.CharacterFirst	Oh, you wish me to go away, it breaks my heart ...	It makes me want to stay.									
+30.Character	No need to try, I'm staying!										

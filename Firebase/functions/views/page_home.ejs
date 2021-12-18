@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="<%= req.getLocale() %>">
+
+<head>
+    <meta name="robots" content="noarchive,nocache" />
+
+    <title><%- tr('seo_title') %></title>
+    <meta name="description" content="<%- tr('seo_description') %>" />
+
+    <%- include('part_meta') -%>
+
+    <%- include('part_ga_tracker_init') -%>
+
+    <!-- disable buggy section for retarded browsers -->
+    <!--[if IE]>
+    <style>
+        #about {
+            display: none;
+        }
+    </style>
+    <![endif]-->
+    <script>
+        window.onload = function() {
+            if (window.navigator.userAgent.match('(MSIE )|(Trident/)')) {
+                window.document.getElementById('about').setAttribute('style', 'display: none;');
+            }
+        };
+    </script>
+</head>
+
+<body class="flex-v">
+
+    <div id="section-main" class="flex-h">
+
+        <div class="flex-v">
+
+            <%- include('part_header') -%>
+
+            <br />
+
+            <div id="bg-line-stores" class="bg-line"></div>
+
+            <h2 class="title-highlight"><%- tr('play_free') %></h2>
+
+            <br />
+
+            <div class="flex-h">
+
+                <img id="hexa-snap-icon" src="/images/hexa-snap-icon.png" alt="<%- tr('app_icon') %>" />
+
+                <ul class="flex-v">
+                    <li>
+                        <%- include('part_app_links_ios', { trackingCategory: 'section-main'}) -%>
+                    </li>
+                    <li>
+                        <%- include('part_app_links_android', { trackingCategory: 'section-main'}) -%>
+                    </li>
+                </ul>
+
+            </div>
+
+        </div>
+
+        <div id="hexa-snap-capture">
+
+            <img src="/images/iphone-background.png" />
+
+            <video width="350px" height="750px" preload="none" playsinline autoplay muted loop
+                poster="/images/hexa-snap-capture.png">
+
+                <source src="/medias/hexa-snap-video.mp4" type="video/mp4" />
+
+            </video>
+
+            <img src="/images/iphone-border.png" />
+
+        </div>
+
+    </div>
+
+    <div id="section-social" class="flex-v">
+
+        <div id="character">
+
+            <div id="character-speech">
+                    <%- tr('character_speech') %>
+            </div>
+
+            <div id="character-background"
+                style="background-image: url(/images/character-social-medias.png);background-repeat: no-repeat; background-size:contain;background-position:center;">
+            </div>
+
+        </div>
+
+        <%- include('part_social') %>
+    </div>
+
+    <div>
+
+        <section>
+
+            <div id="bg-line-title-game" class="bg-line">
+                <div id="bg-line-end-title-game" class="bg-line-end"></div>
+            </div>
+
+            <h1 class="title-dark"><%- tr('title_game') %></h1>
+
+            <br />
+
+            <div class="flex-v">
+                <img src="/images/hexa-snap-logo.png" alt="Hexa Snap" width="300px" height="125px" />
+            </div>
+
+            <br />
+            <br />
+
+            <div class="flex-h flex-table">
+
+                <section class="flex-table-elem card">
+                    <img class="game-icon" src="/images/icon-free.png" />
+                    <h2><%- tr('game_free_sub') %></h2>
+                    <%- tr('game_free_p') %>
+                </section>
+
+                <section class="flex-table-elem card">
+                    <img class="game-icon" src="/images/icon-easy.png" />
+                    <h2><%- tr('game_easy_sub') %></h2>
+                    <%- tr('game_easy_p') %>
+                </section>
+
+                <section class="flex-table-elem card">
+                    <img class="game-icon" src="/images/icon-arcade.png" />
+                    <h2><%- tr('game_arcade_sub') %></h2>
+                    <%- tr('game_arcade_p') %>
+                </section>
+
+                <section class="flex-table-elem card">
+                    <img class="game-icon" src="/images/icon-time-attack.png" />
+                    <h2><%- tr('game_time_attack_sub') %></h2>
+                    <%- tr('game_time_attack_p') %>
+                </section>
+
+                <section class="flex-table-elem card">
+                    <img class="game-icon" src="/images/icon-cheat.png" />
+                    <h2><%- tr('game_cheat_sub') %></h2>
+                    <%- tr('game_cheat_p') %>
+                </section>
+
+                <section class="flex-table-elem card">
+                    <img class="game-icon" src="/images/icon-hexacoins.png" />
+                    <h2><%- tr('game_hexacoins_sub') %></h2>
+                    <%- tr('game_hexacoins_p') %>
+                </section>
+
+                <ul class="flex-table-elem flex-h app-links-container">
+                    <li>
+                        <%- include('part_app_links_ios', { trackingCategory: 'section-game'}) -%>
+                    </li>
+                    <li>
+                        <%- include('part_app_links_android', { trackingCategory: 'section-game'}) -%>
+                    </li>
+                </ul>
+
+            </div>
+
+        </section>
+
+        <br />
+        <br />
+
+        <section>
+
+            <div id="bg-line-title-awards" class="bg-line">
+                <div id="bg-line-end-title-awards" class="bg-line-end"></div>
+            </div>
+
+            <h1 class="title-dark"><%- tr('title_awards') %></h1>
+
+            <br />
+
+            <div class="flex-v">
+
+                <div class="flex-h flex-table">
+
+                    <div class="flex-h flex-table-elem award">
+                        <div class="flex-v">
+                            <h5><%- tr('awards_1_title') %></h5>
+                            <p><%- tr('awards_1_desc') %></p>
+                        </div>
+                    </div>
+
+                    <div class="flex-h flex-table-elem award">
+                        <div class="flex-v">
+                            <h5><%- tr('awards_2_title') %></h5>
+                            <p><%- tr('awards_2_desc') %></p>
+                        </div>
+                    </div>
+
+                    <div class="flex-h flex-table-elem award">
+                        <div class="flex-v">
+                            <h5><%- tr('awards_3_title') %></h5>
+                            <p><%- tr('awards_3_desc') %></p>
+                        </div>
+                    </div>
+
+                </div>
+
+                <p>⬣ ⬣ ⬣ ⬣ ⬣</p>
+
+                <blockquote>
+                    <p><%- tr('awards_quote_1') %></p>
+                    <cite><%- tr('awards_quote_author_1') %></cite>
+                </blockquote>
+
+                <blockquote>
+                    <p><%- tr('awards_quote_2') %></p>
+                    <cite><%- tr('awards_quote_author_2') %></cite>
+                </blockquote>
+
+                <blockquote>
+                    <p><%- tr('awards_quote_3') %></p>
+                    <cite><%- tr('awards_quote_author_3') %></cite>
+                </blockquote>
+
+            </div>
+
+        </section>
+
+        <br />
+        <br />
+
+        <section id="about">
+
+            <div id="bg-line-title-about" class="bg-line">
+                <div id="bg-line-end-title-about" class="bg-line-end"></div>
+            </div>
+
+            <h1 class="title-dark"><%- tr('title_about') %></h1>
+
+            <div class="flex-v">
+
+                <section class="flex-v card illustration-box"
+                    style="background-image: url(/images/background-behind.jpg);background-size:cover;background-position:right;">
+
+                    <div class="flex-v illustrated-text text-right">
+                        <h2 class="title-dark"><%- tr('about_behind_sub') %></h2>
+                        <%- tr('about_behind_p') %>
+                    </div>
+
+                </section>
+
+                <section class="flex-v card illustration-box"
+                    style="background-image: url(/images/background-motivation.jpg);background-size:cover;background-position:left;">
+
+                    <div class="flex-v illustrated-text text-left">
+                        <h2 class="title-dark"><%- tr('about_motivation_sub') %></h2>
+                        <%- tr('about_motivation_p') %>
+                    </div>
+
+                </section>
+
+                <section class="flex-v card illustration-box"
+                    style="background-image: url(/images/background-after.jpg);background-size:cover;background-position:right;">
+
+                    <div class="flex-v illustrated-text text-right">
+                        <h2 class="title-dark"><%- tr('about_after_sub') %></h2>
+                        <%- tr('about_after_p', 'href="mailto:contact@hexasnap.com" onclick="return trackOutboundLink(this, \'redirect\', \'section-about-after\');"') %>
+                    </div>
+
+                </section>
+
+                <section class="flex-v card illustration-box"
+                    style="background-image: url(/images/background-note.jpg);background-size:cover;background-position:left;">
+
+                    <div class="flex-v illustrated-text text-left">
+                        <h2 class="title-dark"><%- tr('about_note_sub') %></h2>
+                        <%- tr('about_note_p') %>
+                    </div>
+
+                </section>
+
+                <section class="flex-v card illustration-box"
+                    style="background-image: url(/images/background-numbers.jpg);background-size:cover;background-position:right;">
+
+                    <div class="flex-v illustrated-text text-right">
+                        <h2 class="title-dark"><%- tr('about_numbers_sub') %></h2>
+                        <%- tr('about_numbers_p') %>
+                    </div>
+
+                </section>
+
+            </div>
+
+        </section>
+
+    </div>
+
+    <%- include('part_footer') -%>
+
+    <div id="big-hexagon-1"></div>
+    <div id="big-hexagon-2"></div>
+
+</body>
+
+</html>
