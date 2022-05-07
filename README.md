@@ -3,11 +3,11 @@
 Hexa Snap is my first released mobile game on Android and iOS. 
 It's a 2D arcade game with an old grey style like Tetris on GameBoy.
 
-https://user-images.githubusercontent.com/96313983/163799467-3a4b251b-82ed-4118-8e5c-b7c3026cbe82.mp4
-
 - Android: https://play.google.com/store/apps/details?id=com.hexasnap
-- iOS: https://apps.apple.com/bj/app/hexa-snap/id1455788690
+- iOS: https://apps.apple.com/app/hexa-snap/id1455788690
 - Website: https://hexasnap.com/
+
+https://user-images.githubusercontent.com/96313983/163799467-3a4b251b-82ed-4118-8e5c-b7c3026cbe82.mp4
 
 
 ### Required skills
