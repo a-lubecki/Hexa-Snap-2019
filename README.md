@@ -5,9 +5,19 @@ It's a 2D arcade game with an old grey style like Tetris on GameBoy.
 
 ![hexasnap-example (1)](https://user-images.githubusercontent.com/96313983/187087149-31e92ab9-78be-426e-8044-50f6d6bb14d1.gif)
 
+https://user-images.githubusercontent.com/96313983/163799467-3a4b251b-82ed-4118-8e5c-b7c3026cbe82.mp4
+
+### Links
+
+(I stopped the support on the apps, they may be unavailable)
+
 - Android: https://play.google.com/store/apps/details?id=com.hexasnap
 - iOS: https://apps.apple.com/app/hexa-snap/id1455788690
-- Website: https://hexasnap.com/
+
+<p>
+<img height="600" alt="image" src="https://user-images.githubusercontent.com/96313983/201479675-e26fbafb-ec9e-4d63-b90c-f5dd85acee7a.png">
+<img height="600" alt="image" src="https://user-images.githubusercontent.com/96313983/201479679-06451a2f-a138-4f0d-9b17-0dc581923da1.png">
+</p>
 
 ### Required skills
 
@@ -43,8 +53,6 @@ It's a 2D arcade game with an old grey style like Tetris on GameBoy.
 
 
 ### Gameplay
-
-https://user-images.githubusercontent.com/96313983/163799467-3a4b251b-82ed-4118-8e5c-b7c3026cbe82.mp4
 
 <img width="931" alt="image" src="https://user-images.githubusercontent.com/96313983/163806735-6c89c335-c453-425d-ae90-e0cec5ba0c31.png">
 
